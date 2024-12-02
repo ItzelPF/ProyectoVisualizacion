@@ -1,0 +1,1001 @@
+﻿ID,Fecha,Producto,Marca,Categoría,PrecioUnitario,CantidadVendida,TotalVenta,MétodoPago,Estado
+1,13/03/2023,Corrector,Fenty Beauty,Ojos,181.16,4,724.64,Efectivo,Guanajuato
+2,06/08/2024,Sombras,Maybelline,Rostro,207.84,1,207.84,Transferencia,Querétaro
+3,26/02/2023,Rubor,MAC,Rostro,1080.92,5,5404.6,Transferencia,Jalisco
+4,01/12/2023,Rímel,Maybelline,Labios,596.06,2,1192.12,Transferencia,Baja California
+5,20/11/2023,Labial,Revlon,Ojos,348.51,3,1045.53,Transferencia,Jalisco
+6,02/08/2024,Polvo Compacto,NARS,Ojos,681.07,6,4086.42,Transferencia,Ciudad de México
+7,12/03/2024,Delineador,NARS,Labios,1081.51,1,1081.51,Transferencia,Querétaro
+8,05/01/2023,Base,Revlon,Rostro,376.24,5,1881.2,Transferencia,Guanajuato
+9,20/06/2024,Labial,MAC,Rostro,1282.98,2,2565.96,Transferencia,Aguascalientes
+10,24/05/2023,Polvo Compacto,NYX,Labios,234.54,5,1172.7,Transferencia,Nuevo León
+11,25/05/2023,Corrector,L'Oréal,Ojos,391.13,2,782.26,Transferencia,Puebla
+12,11/12/2023,Polvo Compacto,NYX,Ojos,1061.02,5,5305.1,Transferencia,Chihuahua
+13,09/04/2024,Corrector,Clinique,Labios,1116.43,6,6698.58,Efectivo,Baja California
+14,20/11/2023,Base,L'Oréal,Ojos,1460.76,5,7303.8,Transferencia,Nuevo León
+15,13/01/2023,Corrector,Fenty Beauty,Labios,657.09,3,1971.27,Efectivo,Querétaro
+16,26/06/2024,Labial,Revlon,Ojos,301.11,2,602.22,Efectivo,Guanajuato
+17,13/11/2024,Base,Clinique,Rostro,97.54,1,97.54,Transferencia,Guanajuato
+18,16/02/2024,Polvo Compacto,Revlon,Rostro,922.39,5,4611.95,Efectivo,Chihuahua
+19,15/08/2024,Delineador,Maybelline,Rostro,626.66,2,1253.32,Efectivo,Chihuahua
+20,18/03/2023,Polvo Compacto,Urban Decay,Labios,1312.05,1,1312.05,Efectivo,Sonora
+21,08/08/2024,Base,MAC,Labios,742.95,2,1485.9,Transferencia,Sinaloa
+22,02/06/2023,Rubor,L'Oréal,Labios,395.39,5,1976.95,Transferencia,Chihuahua
+23,13/04/2023,Iluminador,Revlon,Labios,844.28,4,3377.12,Transferencia,Puebla
+24,24/11/2024,Polvo Compacto,Maybelline,Rostro,387.07,2,774.14,Efectivo,Baja California
+25,11/09/2023,Sombras,Maybelline,Ojos,782.13,1,782.13,Efectivo,Puebla
+26,15/09/2024,Delineador,Maybelline,Ojos,1290.84,1,1290.84,Transferencia,Querétaro
+27,11/09/2024,Polvo Compacto,NYX,Ojos,137.55,5,687.75,Transferencia,Ciudad de México
+28,27/06/2024,Base,Revlon,Rostro,79.2,2,158.4,Transferencia,Sinaloa
+29,16/01/2024,Sombras,Urban Decay,Ojos,1497.22,3,4491.66,Transferencia,Chihuahua
+30,26/09/2024,Iluminador,L'Oréal,Ojos,964.8,6,5788.8,Transferencia,Puebla
+31,17/02/2024,Delineador,NYX,Labios,160.97,6,965.82,Transferencia,Jalisco
+32,23/10/2023,Sombras,Clinique,Rostro,1405.25,4,5621,Efectivo,Guanajuato
+33,07/01/2024,Polvo Compacto,Fenty Beauty,Ojos,989.5,6,5937,Efectivo,Puebla
+34,13/03/2024,Corrector,Maybelline,Rostro,659.22,6,3955.32,Efectivo,Querétaro
+35,26/04/2024,Sombras,NARS,Labios,834.01,6,5004.06,Transferencia,Estado de México
+36,01/03/2023,Iluminador,NARS,Ojos,917.87,5,4589.35,Transferencia,Baja California
+37,25/07/2024,Rímel,Clinique,Labios,1015.7,6,6094.2,Transferencia,Baja California
+38,14/09/2024,Rubor,Clinique,Ojos,1188.73,4,4754.92,Transferencia,Querétaro
+39,11/04/2024,Delineador,Urban Decay,Ojos,1029.62,4,4118.48,Transferencia,Baja California
+40,21/02/2024,Polvo Compacto,Maybelline,Ojos,376.07,1,376.07,Transferencia,Querétaro
+41,05/11/2024,Rímel,Fenty Beauty,Labios,921.81,1,921.81,Efectivo,Nuevo León
+42,22/04/2024,Labial,NARS,Rostro,502.63,2,1005.26,Transferencia,Guanajuato
+43,09/03/2024,Polvo Compacto,Urban Decay,Ojos,1481.17,4,5924.68,Transferencia,Sonora
+44,02/01/2023,Base,Revlon,Labios,925.8,6,5554.8,Transferencia,Ciudad de México
+45,03/10/2024,Delineador,Revlon,Ojos,1208.8,6,7252.8,Efectivo,Sonora
+46,22/03/2023,Iluminador,Revlon,Ojos,266.84,3,800.52,Efectivo,Jalisco
+47,13/09/2023,Sombras,MAC,Ojos,743.12,1,743.12,Transferencia,Estado de México
+48,14/05/2024,Rímel,Maybelline,Ojos,1486.54,1,1486.54,Efectivo,Ciudad de México
+49,06/06/2024,Base,Maybelline,Labios,142.3,3,426.9,Transferencia,Chihuahua
+50,22/10/2024,Sombras,NYX,Ojos,236.25,3,708.75,Transferencia,Chihuahua
+51,09/06/2024,Base,Maybelline,Labios,377.09,4,1508.36,Transferencia,Nuevo León
+52,15/02/2024,Sombras,Fenty Beauty,Labios,1100.26,6,6601.56,Efectivo,Jalisco
+53,17/10/2023,Delineador,NARS,Labios,1336.42,6,8018.52,Transferencia,Jalisco
+54,19/03/2024,Polvo Compacto,NYX,Rostro,225.15,3,675.45,Transferencia,Aguascalientes
+55,14/07/2024,Delineador,Urban Decay,Rostro,1144.68,1,1144.68,Efectivo,Sonora
+56,01/02/2023,Rímel,NARS,Rostro,511.55,1,511.55,Efectivo,Chihuahua
+57,14/09/2024,Polvo Compacto,NYX,Rostro,1022.7,6,6136.2,Transferencia,Guanajuato
+58,12/10/2024,Polvo Compacto,Revlon,Labios,616.92,2,1233.84,Efectivo,Ciudad de México
+59,06/11/2024,Rubor,Urban Decay,Ojos,1006.71,6,6040.26,Transferencia,Querétaro
+60,03/04/2023,Polvo Compacto,Clinique,Labios,561.81,4,2247.24,Efectivo,Sinaloa
+61,10/02/2023,Corrector,Fenty Beauty,Labios,623.31,5,3116.55,Efectivo,Guanajuato
+62,10/04/2023,Rímel,Maybelline,Rostro,320.52,2,641.04,Transferencia,Estado de México
+63,02/08/2024,Corrector,L'Oréal,Rostro,346.63,4,1386.52,Efectivo,Baja California
+64,01/06/2023,Base,MAC,Rostro,1012.06,6,6072.36,Efectivo,Puebla
+65,03/07/2024,Delineador,NYX,Ojos,164.59,2,329.18,Efectivo,Baja California
+66,10/09/2023,Corrector,Maybelline,Ojos,257.8,5,1289,Transferencia,Jalisco
+67,10/10/2024,Corrector,MAC,Labios,740.89,4,2963.56,Efectivo,Puebla
+68,04/08/2024,Corrector,Revlon,Labios,314.87,5,1574.35,Transferencia,Nuevo León
+69,01/02/2023,Polvo Compacto,Fenty Beauty,Labios,232.63,5,1163.15,Transferencia,Ciudad de México
+70,25/08/2024,Rubor,NARS,Rostro,1424.05,4,5696.2,Transferencia,Aguascalientes
+71,08/12/2023,Rímel,Urban Decay,Labios,432.26,1,432.26,Efectivo,Ciudad de México
+72,08/09/2024,Corrector,Fenty Beauty,Labios,1051.25,4,4205,Transferencia,Jalisco
+73,01/11/2023,Rímel,Clinique,Ojos,632.42,5,3162.1,Transferencia,Jalisco
+74,10/05/2023,Corrector,MAC,Rostro,1431.73,3,4295.19,Efectivo,Sonora
+75,28/11/2023,Sombras,NYX,Ojos,192.79,1,192.79,Efectivo,Ciudad de México
+76,28/04/2024,Rímel,Clinique,Labios,608.05,2,1216.1,Efectivo,Baja California
+77,25/08/2024,Rímel,Urban Decay,Rostro,1174.51,2,2349.02,Efectivo,Ciudad de México
+78,02/05/2024,Iluminador,Urban Decay,Rostro,801.44,2,1602.88,Efectivo,Guanajuato
+79,08/12/2023,Sombras,Urban Decay,Labios,149.4,4,597.6,Efectivo,Guanajuato
+80,19/02/2023,Rímel,Maybelline,Rostro,616.12,1,616.12,Efectivo,Estado de México
+81,18/07/2023,Rímel,MAC,Ojos,234.85,3,704.55,Transferencia,Sonora
+82,08/01/2024,Rímel,Maybelline,Rostro,361.83,6,2170.98,Transferencia,Estado de México
+83,15/01/2024,Delineador,L'Oréal,Rostro,451.78,3,1355.34,Transferencia,Jalisco
+84,12/05/2023,Polvo Compacto,MAC,Ojos,1030.76,1,1030.76,Transferencia,Estado de México
+85,20/01/2023,Corrector,Fenty Beauty,Rostro,1384.8,6,8308.8,Transferencia,Estado de México
+86,11/08/2024,Rubor,Revlon,Ojos,846.63,3,2539.89,Efectivo,Jalisco
+87,10/10/2023,Labial,Fenty Beauty,Labios,78.79,3,236.37,Transferencia,Puebla
+88,04/11/2023,Polvo Compacto,Clinique,Ojos,421.5,6,2529,Transferencia,Sinaloa
+89,19/09/2024,Delineador,NYX,Labios,1299.13,3,3897.39,Efectivo,Aguascalientes
+90,15/05/2024,Base,Urban Decay,Rostro,1265.71,4,5062.84,Efectivo,Sinaloa
+91,02/11/2023,Rubor,Urban Decay,Rostro,142.08,4,568.32,Transferencia,Ciudad de México
+92,18/01/2024,Delineador,MAC,Ojos,247.34,3,742.02,Transferencia,Puebla
+93,20/04/2023,Base,MAC,Labios,197.74,3,593.22,Transferencia,Baja California
+94,02/09/2023,Sombras,NYX,Labios,937.57,1,937.57,Transferencia,Baja California
+95,25/10/2024,Iluminador,Urban Decay,Rostro,1352.25,2,2704.5,Transferencia,Jalisco
+96,14/07/2024,Rubor,MAC,Rostro,422.37,1,422.37,Efectivo,Sinaloa
+97,22/05/2023,Iluminador,NARS,Labios,724.87,5,3624.35,Transferencia,Jalisco
+98,05/06/2024,Corrector,Fenty Beauty,Labios,730.26,2,1460.52,Efectivo,Aguascalientes
+99,10/11/2024,Rímel,Maybelline,Labios,497.84,6,2987.04,Efectivo,Sonora
+100,13/03/2024,Base,Clinique,Ojos,1222.82,2,2445.64,Efectivo,Puebla
+101,07/09/2024,Labial,Clinique,Rostro,210.9,6,1265.4,Transferencia,Estado de México
+102,17/08/2024,Rímel,L'Oréal,Labios,171.1,5,855.5,Efectivo,Nuevo León
+103,21/07/2023,Rubor,MAC,Rostro,336.22,6,2017.32,Transferencia,Estado de México
+104,21/05/2023,Rubor,NARS,Ojos,1041.38,1,1041.38,Transferencia,Chihuahua
+105,03/08/2024,Iluminador,L'Oréal,Rostro,158.66,1,158.66,Efectivo,Sinaloa
+106,19/04/2023,Labial,Urban Decay,Labios,656.72,2,1313.44,Transferencia,Guanajuato
+107,04/10/2024,Polvo Compacto,Revlon,Rostro,169.61,6,1017.66,Efectivo,Ciudad de México
+108,18/11/2023,Polvo Compacto,Clinique,Labios,1124.6,1,1124.6,Transferencia,Sinaloa
+109,13/02/2023,Rubor,Clinique,Labios,204.58,1,204.58,Transferencia,Guanajuato
+110,06/04/2024,Corrector,Clinique,Ojos,477.11,1,477.11,Transferencia,Sonora
+111,04/07/2024,Polvo Compacto,MAC,Ojos,249.36,1,249.36,Transferencia,Sinaloa
+112,04/11/2024,Rubor,Fenty Beauty,Labios,1107.19,3,3321.57,Transferencia,Ciudad de México
+113,01/02/2023,Polvo Compacto,MAC,Ojos,687.97,6,4127.82,Efectivo,Aguascalientes
+114,07/08/2024,Delineador,Urban Decay,Rostro,1390.82,1,1390.82,Efectivo,Aguascalientes
+115,02/07/2024,Iluminador,L'Oréal,Labios,1129.37,1,1129.37,Efectivo,Puebla
+116,28/02/2024,Delineador,Urban Decay,Rostro,1060.14,3,3180.42,Efectivo,Nuevo León
+117,11/01/2024,Labial,Clinique,Labios,631.09,4,2524.36,Transferencia,Ciudad de México
+118,11/04/2023,Rubor,Fenty Beauty,Ojos,960.98,5,4804.9,Transferencia,Querétaro
+119,22/09/2023,Delineador,Revlon,Ojos,955.9,6,5735.4,Efectivo,Baja California
+120,12/11/2024,Iluminador,NARS,Ojos,824.47,4,3297.88,Efectivo,Sinaloa
+121,03/10/2023,Iluminador,Urban Decay,Labios,464.27,5,2321.35,Efectivo,Aguascalientes
+122,17/05/2024,Iluminador,Urban Decay,Rostro,343.69,4,1374.76,Transferencia,Estado de México
+123,14/12/2023,Sombras,NYX,Ojos,1048.36,5,5241.8,Transferencia,Chihuahua
+124,27/01/2024,Polvo Compacto,L'Oréal,Labios,129.72,4,518.88,Transferencia,Chihuahua
+125,02/11/2023,Rímel,MAC,Rostro,1078.12,5,5390.6,Efectivo,Estado de México
+126,03/06/2023,Iluminador,Maybelline,Labios,1109.15,1,1109.15,Efectivo,Puebla
+127,15/09/2023,Rubor,Fenty Beauty,Labios,1191.12,2,2382.24,Efectivo,Nuevo León
+128,15/05/2024,Labial,Clinique,Rostro,709.86,3,2129.58,Transferencia,Chihuahua
+129,02/03/2024,Corrector,MAC,Labios,1007.98,5,5039.9,Transferencia,Aguascalientes
+130,19/02/2024,Corrector,NARS,Rostro,427.63,3,1282.89,Efectivo,Ciudad de México
+131,15/09/2024,Rubor,Revlon,Labios,1473.29,1,1473.29,Transferencia,Sinaloa
+132,13/02/2023,Delineador,NARS,Ojos,344.93,6,2069.58,Efectivo,Jalisco
+133,03/02/2024,Sombras,NYX,Ojos,1044.08,2,2088.16,Efectivo,Ciudad de México
+134,18/12/2023,Rímel,NARS,Rostro,445.73,5,2228.65,Transferencia,Nuevo León
+135,25/05/2023,Base,Fenty Beauty,Rostro,98.1,4,392.4,Efectivo,Estado de México
+136,22/07/2023,Base,L'Oréal,Rostro,157.33,4,629.32,Efectivo,Nuevo León
+137,12/08/2023,Sombras,MAC,Rostro,1301.33,1,1301.33,Efectivo,Baja California
+138,19/08/2024,Iluminador,L'Oréal,Ojos,287.74,4,1150.96,Transferencia,Ciudad de México
+139,22/01/2023,Base,Maybelline,Rostro,850.8,2,1701.6,Efectivo,Nuevo León
+140,20/10/2024,Delineador,Maybelline,Labios,533.37,3,1600.11,Efectivo,Baja California
+141,26/10/2023,Polvo Compacto,Clinique,Labios,873.86,2,1747.72,Efectivo,Puebla
+142,11/11/2024,Delineador,Maybelline,Labios,1023.82,5,5119.1,Efectivo,Baja California
+143,12/11/2024,Base,Fenty Beauty,Rostro,632.78,2,1265.56,Efectivo,Chihuahua
+144,06/07/2024,Sombras,L'Oréal,Labios,775.17,4,3100.68,Efectivo,Nuevo León
+145,24/01/2023,Sombras,NYX,Ojos,747.92,4,2991.68,Efectivo,Chihuahua
+146,13/12/2023,Sombras,Urban Decay,Rostro,592.54,4,2370.16,Transferencia,Aguascalientes
+147,11/05/2024,Sombras,Revlon,Labios,734.87,5,3674.35,Efectivo,Baja California
+148,02/05/2023,Rímel,MAC,Ojos,717.53,5,3587.65,Efectivo,Sinaloa
+149,23/07/2024,Base,Fenty Beauty,Labios,568.48,6,3410.88,Efectivo,Aguascalientes
+150,22/04/2023,Iluminador,MAC,Ojos,458.34,2,916.68,Efectivo,Aguascalientes
+151,12/07/2024,Polvo Compacto,Fenty Beauty,Ojos,538.37,3,1615.11,Efectivo,Estado de México
+152,03/06/2023,Base,MAC,Labios,132.93,2,265.86,Efectivo,Nuevo León
+153,12/08/2024,Corrector,Maybelline,Ojos,1131.75,6,6790.5,Transferencia,Ciudad de México
+154,10/02/2024,Corrector,Fenty Beauty,Rostro,1091.59,6,6549.54,Transferencia,Puebla
+155,14/07/2024,Base,Fenty Beauty,Rostro,1054.84,4,4219.36,Transferencia,Jalisco
+156,25/01/2024,Rubor,Fenty Beauty,Labios,688.27,5,3441.35,Efectivo,Aguascalientes
+157,21/06/2024,Delineador,Clinique,Ojos,247.97,1,247.97,Efectivo,Puebla
+158,02/08/2023,Rubor,MAC,Rostro,921.14,4,3684.56,Efectivo,Estado de México
+159,07/10/2023,Delineador,NYX,Rostro,904.6,5,4523,Transferencia,Baja California
+160,26/10/2024,Delineador,Maybelline,Rostro,1204.06,3,3612.18,Efectivo,Aguascalientes
+161,10/11/2024,Base,Urban Decay,Labios,1336.63,1,1336.63,Transferencia,Chihuahua
+162,27/09/2024,Base,NYX,Labios,1084.49,1,1084.49,Efectivo,Chihuahua
+163,14/02/2023,Corrector,NYX,Ojos,396.5,3,1189.5,Transferencia,Querétaro
+164,01/07/2024,Delineador,Clinique,Rostro,1420.64,2,2841.28,Efectivo,Guanajuato
+165,22/11/2023,Sombras,Urban Decay,Labios,1070.27,4,4281.08,Transferencia,Jalisco
+166,12/08/2023,Delineador,L'Oréal,Rostro,173.06,5,865.3,Transferencia,Sinaloa
+167,19/05/2023,Labial,Urban Decay,Labios,373.34,4,1493.36,Efectivo,Jalisco
+168,22/10/2024,Labial,Urban Decay,Ojos,398.65,4,1594.6,Transferencia,Baja California
+169,08/08/2023,Corrector,Fenty Beauty,Ojos,1222.39,5,6111.95,Efectivo,Estado de México
+170,25/03/2023,Polvo Compacto,NARS,Ojos,600.41,6,3602.46,Efectivo,Baja California
+171,09/04/2024,Polvo Compacto,Urban Decay,Rostro,1463.59,6,8781.54,Efectivo,Querétaro
+172,10/07/2024,Iluminador,NARS,Ojos,807.96,2,1615.92,Efectivo,Aguascalientes
+173,07/09/2023,Rubor,Fenty Beauty,Ojos,842.87,1,842.87,Transferencia,Chihuahua
+174,17/03/2024,Base,NYX,Rostro,58.56,5,292.8,Transferencia,Puebla
+175,04/05/2024,Polvo Compacto,L'Oréal,Rostro,359.21,3,1077.63,Transferencia,Aguascalientes
+176,15/02/2023,Sombras,Revlon,Rostro,819.47,1,819.47,Transferencia,Sonora
+177,03/08/2024,Sombras,Urban Decay,Labios,893.84,4,3575.36,Efectivo,Guanajuato
+178,03/06/2023,Delineador,NARS,Labios,448.14,6,2688.84,Transferencia,Chihuahua
+179,26/02/2023,Iluminador,Clinique,Labios,104.47,4,417.88,Transferencia,Puebla
+180,26/02/2024,Sombras,NARS,Ojos,226.69,5,1133.45,Transferencia,Baja California
+181,18/10/2023,Polvo Compacto,NYX,Ojos,115.59,6,693.54,Transferencia,Ciudad de México
+182,02/11/2024,Sombras,Revlon,Rostro,1444.14,6,8664.84,Transferencia,Aguascalientes
+183,01/01/2024,Sombras,Urban Decay,Rostro,292,5,1460,Efectivo,Aguascalientes
+184,04/02/2023,Corrector,Fenty Beauty,Rostro,1368.55,4,5474.2,Transferencia,Puebla
+185,03/02/2024,Polvo Compacto,Clinique,Ojos,337.16,6,2022.96,Efectivo,Aguascalientes
+186,04/06/2024,Base,MAC,Labios,637.97,2,1275.94,Efectivo,Guanajuato
+187,16/02/2024,Labial,NYX,Labios,503.38,5,2516.9,Transferencia,Querétaro
+188,10/02/2023,Rímel,L'Oréal,Labios,1149.51,3,3448.53,Transferencia,Chihuahua
+189,07/04/2023,Rímel,Revlon,Ojos,805.92,4,3223.68,Efectivo,Chihuahua
+190,22/09/2023,Delineador,Clinique,Labios,103.96,2,207.92,Transferencia,Aguascalientes
+191,05/06/2023,Labial,NYX,Labios,1374.72,3,4124.16,Transferencia,Baja California
+192,10/04/2024,Base,MAC,Labios,163.75,5,818.75,Transferencia,Sonora
+193,04/10/2023,Corrector,L'Oréal,Labios,1038.34,6,6230.04,Efectivo,Aguascalientes
+194,22/08/2023,Rímel,Revlon,Rostro,1354.03,4,5416.12,Efectivo,Ciudad de México
+195,13/06/2023,Base,NYX,Rostro,90.61,4,362.44,Transferencia,Aguascalientes
+196,11/07/2023,Iluminador,Clinique,Labios,849.97,5,4249.85,Efectivo,Sonora
+197,13/02/2023,Rímel,MAC,Ojos,1329.61,3,3988.83,Efectivo,Sinaloa
+198,16/01/2023,Iluminador,Urban Decay,Ojos,666.6,6,3999.6,Transferencia,Sonora
+199,15/04/2024,Polvo Compacto,L'Oréal,Rostro,1332.65,4,5330.6,Efectivo,Jalisco
+200,15/05/2023,Corrector,MAC,Ojos,834.16,1,834.16,Transferencia,Baja California
+201,08/10/2024,Rubor,MAC,Ojos,1453.19,3,4359.57,Efectivo,Aguascalientes
+202,17/07/2023,Iluminador,Maybelline,Labios,406.99,5,2034.95,Transferencia,Sinaloa
+203,27/02/2024,Base,Revlon,Rostro,740.96,5,3704.8,Efectivo,Chihuahua
+204,25/01/2024,Rubor,NARS,Ojos,85.4,5,427,Efectivo,Aguascalientes
+205,13/12/2023,Polvo Compacto,Revlon,Ojos,1096.39,3,3289.17,Efectivo,Aguascalientes
+206,11/07/2023,Corrector,NARS,Ojos,833.48,3,2500.44,Transferencia,Baja California
+207,24/07/2023,Labial,NARS,Rostro,787.82,3,2363.46,Efectivo,Querétaro
+208,14/09/2023,Iluminador,MAC,Rostro,750.78,1,750.78,Transferencia,Puebla
+209,17/11/2024,Polvo Compacto,Maybelline,Rostro,625.51,6,3753.06,Efectivo,Baja California
+210,28/02/2024,Delineador,MAC,Ojos,1414.62,2,2829.24,Efectivo,Ciudad de México
+211,26/09/2024,Rímel,MAC,Ojos,1383.65,6,8301.9,Transferencia,Guanajuato
+212,12/10/2024,Iluminador,L'Oréal,Ojos,947.14,4,3788.56,Efectivo,Ciudad de México
+213,16/08/2024,Base,Clinique,Rostro,629.4,1,629.4,Efectivo,Ciudad de México
+214,13/09/2023,Iluminador,Urban Decay,Rostro,718.25,3,2154.75,Efectivo,Sinaloa
+215,20/11/2024,Iluminador,Revlon,Rostro,1273.63,2,2547.26,Efectivo,Nuevo León
+216,15/08/2024,Delineador,Clinique,Labios,1218.97,1,1218.97,Efectivo,Ciudad de México
+217,20/05/2023,Base,NYX,Labios,1392.29,1,1392.29,Efectivo,Querétaro
+218,14/08/2024,Rímel,NYX,Rostro,543.3,2,1086.6,Efectivo,Jalisco
+219,17/10/2024,Labial,Maybelline,Ojos,1470.14,2,2940.28,Transferencia,Puebla
+220,04/09/2023,Sombras,Revlon,Rostro,1322.36,5,6611.8,Efectivo,Chihuahua
+221,23/01/2023,Iluminador,L'Oréal,Labios,1301.93,6,7811.58,Transferencia,Baja California
+222,12/02/2024,Sombras,Clinique,Rostro,1185.46,5,5927.3,Transferencia,Nuevo León
+223,12/10/2024,Delineador,NARS,Ojos,889.65,1,889.65,Transferencia,Puebla
+224,26/07/2024,Rubor,NARS,Ojos,213.26,1,213.26,Efectivo,Sinaloa
+225,20/10/2023,Base,Urban Decay,Rostro,846.08,6,5076.48,Transferencia,Puebla
+226,03/01/2024,Delineador,NARS,Rostro,380.22,4,1520.88,Transferencia,Chihuahua
+227,12/09/2024,Rubor,NYX,Ojos,387.4,5,1937,Transferencia,Puebla
+228,25/11/2023,Rubor,Fenty Beauty,Ojos,1304.31,4,5217.24,Transferencia,Aguascalientes
+229,03/10/2024,Rubor,Fenty Beauty,Labios,989.94,3,2969.82,Transferencia,Sinaloa
+230,21/04/2023,Corrector,NARS,Rostro,459.08,2,918.16,Transferencia,Aguascalientes
+231,08/12/2023,Polvo Compacto,NARS,Rostro,1457.99,5,7289.95,Efectivo,Sinaloa
+232,19/08/2023,Delineador,Urban Decay,Ojos,1232.18,4,4928.72,Transferencia,Puebla
+233,18/02/2024,Rímel,Clinique,Rostro,889.64,3,2668.92,Efectivo,Aguascalientes
+234,21/05/2024,Polvo Compacto,Urban Decay,Labios,1250.54,2,2501.08,Transferencia,Querétaro
+235,22/03/2024,Rímel,Fenty Beauty,Rostro,510.01,6,3060.06,Transferencia,Sonora
+236,26/12/2023,Labial,Revlon,Rostro,791.96,3,2375.88,Transferencia,Nuevo León
+237,19/07/2023,Corrector,MAC,Rostro,404.28,6,2425.68,Efectivo,Baja California
+238,09/10/2024,Corrector,Fenty Beauty,Ojos,1331.96,5,6659.8,Efectivo,Sinaloa
+239,05/07/2024,Rubor,Clinique,Ojos,358.53,4,1434.12,Efectivo,Sinaloa
+240,23/10/2024,Rímel,NYX,Labios,1268.62,2,2537.24,Efectivo,Nuevo León
+241,27/05/2024,Rubor,L'Oréal,Rostro,1120.5,1,1120.5,Transferencia,Guanajuato
+242,15/06/2023,Base,Maybelline,Ojos,894.21,3,2682.63,Transferencia,Estado de México
+243,02/11/2023,Delineador,NARS,Labios,400.3,6,2401.8,Efectivo,Ciudad de México
+244,03/11/2024,Rímel,Revlon,Ojos,199.18,6,1195.08,Efectivo,Querétaro
+245,16/11/2024,Base,L'Oréal,Rostro,1423.52,5,7117.6,Transferencia,Jalisco
+246,24/10/2023,Delineador,Urban Decay,Ojos,954.42,1,954.42,Transferencia,Estado de México
+247,24/06/2024,Base,Maybelline,Labios,467.44,3,1402.32,Transferencia,Aguascalientes
+248,04/10/2024,Corrector,NYX,Labios,1063.23,2,2126.46,Transferencia,Guanajuato
+249,14/07/2023,Corrector,Urban Decay,Rostro,992.73,6,5956.38,Efectivo,Ciudad de México
+250,27/06/2023,Rímel,MAC,Labios,1011.13,1,1011.13,Efectivo,Sinaloa
+251,06/02/2024,Labial,Urban Decay,Labios,111.23,4,444.92,Transferencia,Chihuahua
+252,21/03/2024,Rímel,L'Oréal,Labios,707.31,1,707.31,Transferencia,Sonora
+253,03/04/2024,Iluminador,Urban Decay,Labios,1408.68,5,7043.4,Efectivo,Sonora
+254,04/08/2024,Corrector,MAC,Labios,163.76,2,327.52,Efectivo,Sonora
+255,01/10/2023,Polvo Compacto,Urban Decay,Ojos,1167.28,5,5836.4,Efectivo,Querétaro
+256,21/08/2023,Rímel,Clinique,Rostro,1272.88,2,2545.76,Efectivo,Estado de México
+257,25/01/2024,Sombras,NYX,Ojos,638.09,1,638.09,Efectivo,Puebla
+258,21/09/2023,Delineador,MAC,Labios,1047.5,1,1047.5,Efectivo,Baja California
+259,14/02/2024,Rímel,Clinique,Labios,216.96,4,867.84,Efectivo,Nuevo León
+260,11/03/2024,Labial,Revlon,Labios,839.51,6,5037.06,Transferencia,Sonora
+261,24/12/2023,Rubor,NYX,Ojos,735.03,4,2940.12,Transferencia,Puebla
+262,13/03/2023,Rubor,Clinique,Ojos,780.17,2,1560.34,Efectivo,Sinaloa
+263,14/12/2023,Polvo Compacto,Revlon,Ojos,276.77,2,553.54,Transferencia,Puebla
+264,27/03/2023,Rímel,Maybelline,Ojos,1121.12,5,5605.6,Transferencia,Querétaro
+265,16/05/2024,Labial,Revlon,Ojos,119.81,6,718.86,Efectivo,Sinaloa
+266,12/06/2023,Polvo Compacto,NARS,Rostro,1262.03,1,1262.03,Transferencia,Jalisco
+267,12/09/2024,Labial,NARS,Rostro,147.77,3,443.31,Transferencia,Baja California
+268,04/01/2024,Base,Revlon,Labios,498.85,3,1496.55,Transferencia,Sonora
+269,27/10/2024,Labial,MAC,Labios,668.49,1,668.49,Efectivo,Jalisco
+270,06/07/2023,Base,NARS,Labios,1023.49,1,1023.49,Transferencia,Baja California
+271,02/12/2023,Corrector,Maybelline,Labios,1421.91,5,7109.55,Efectivo,Querétaro
+272,27/07/2023,Base,Revlon,Rostro,1345.14,5,6725.7,Efectivo,Sonora
+273,23/03/2023,Corrector,Revlon,Ojos,452.71,1,452.71,Transferencia,Nuevo León
+274,16/09/2023,Corrector,L'Oréal,Labios,885.26,4,3541.04,Transferencia,Nuevo León
+275,15/07/2023,Base,MAC,Rostro,778.7,1,778.7,Efectivo,Querétaro
+276,21/01/2024,Rubor,Fenty Beauty,Ojos,1183.8,3,3551.4,Transferencia,Chihuahua
+277,25/04/2024,Base,Maybelline,Ojos,743.36,3,2230.08,Efectivo,Nuevo León
+278,19/05/2024,Iluminador,Fenty Beauty,Ojos,1033.25,5,5166.25,Efectivo,Aguascalientes
+279,18/01/2024,Labial,NYX,Rostro,1395.56,5,6977.8,Efectivo,Puebla
+280,19/09/2023,Base,Urban Decay,Labios,1406.87,4,5627.48,Efectivo,Sinaloa
+281,26/02/2024,Base,MAC,Labios,1488.41,5,7442.05,Transferencia,Jalisco
+282,13/04/2023,Polvo Compacto,Fenty Beauty,Labios,1231.59,6,7389.54,Transferencia,Nuevo León
+283,23/04/2024,Iluminador,Revlon,Labios,1057.71,5,5288.55,Transferencia,Estado de México
+284,24/05/2024,Iluminador,Clinique,Rostro,1401.3,6,8407.8,Efectivo,Jalisco
+285,27/01/2024,Rímel,Revlon,Ojos,1377.22,2,2754.44,Efectivo,Baja California
+286,11/06/2024,Sombras,NYX,Rostro,944.51,5,4722.55,Transferencia,Sonora
+287,05/06/2023,Base,NYX,Rostro,1397.89,4,5591.56,Efectivo,Guanajuato
+288,22/09/2024,Corrector,Maybelline,Labios,569.68,1,569.68,Efectivo,Baja California
+289,14/09/2024,Labial,Revlon,Rostro,1386.28,3,4158.84,Transferencia,Guanajuato
+290,17/04/2023,Sombras,Urban Decay,Labios,81.25,6,487.5,Efectivo,Jalisco
+291,25/01/2023,Base,Revlon,Rostro,1278.54,1,1278.54,Transferencia,Jalisco
+292,23/03/2023,Delineador,Maybelline,Labios,971.43,6,5828.58,Efectivo,Guanajuato
+293,21/02/2024,Delineador,Fenty Beauty,Labios,394.87,6,2369.22,Transferencia,Puebla
+294,23/11/2023,Delineador,NARS,Rostro,904.48,5,4522.4,Efectivo,Sinaloa
+295,26/06/2024,Corrector,L'Oréal,Labios,1066.14,1,1066.14,Transferencia,Baja California
+296,25/02/2023,Labial,MAC,Rostro,467.52,2,935.04,Transferencia,Chihuahua
+297,03/11/2023,Sombras,Fenty Beauty,Labios,726.46,2,1452.92,Transferencia,Chihuahua
+298,27/08/2023,Rímel,Urban Decay,Rostro,250.34,4,1001.36,Transferencia,Guanajuato
+299,27/01/2023,Delineador,Urban Decay,Ojos,479.9,1,479.9,Efectivo,Sinaloa
+300,13/10/2023,Base,NYX,Ojos,271.82,4,1087.28,Transferencia,Sonora
+301,10/06/2024,Iluminador,MAC,Labios,185.47,3,556.41,Efectivo,Jalisco
+302,25/06/2024,Delineador,Maybelline,Labios,686.61,2,1373.22,Transferencia,Nuevo León
+303,07/12/2023,Polvo Compacto,MAC,Ojos,922.3,6,5533.8,Efectivo,Estado de México
+304,18/04/2023,Rímel,Clinique,Labios,398.79,3,1196.37,Efectivo,Chihuahua
+305,04/02/2024,Iluminador,L'Oréal,Ojos,532.96,1,532.96,Transferencia,Sinaloa
+306,26/09/2024,Rubor,Revlon,Rostro,1061.57,4,4246.28,Efectivo,Sonora
+307,28/03/2024,Rubor,L'Oréal,Labios,1189.19,1,1189.19,Transferencia,Guanajuato
+308,19/05/2024,Polvo Compacto,Urban Decay,Labios,720.07,6,4320.42,Efectivo,Guanajuato
+309,16/01/2024,Rímel,Maybelline,Ojos,404.85,3,1214.55,Transferencia,Sinaloa
+310,09/06/2023,Rímel,MAC,Rostro,1226.66,2,2453.32,Efectivo,Guanajuato
+311,23/10/2023,Labial,Maybelline,Rostro,1111.22,2,2222.44,Transferencia,Estado de México
+312,26/10/2024,Rímel,Revlon,Ojos,996.35,4,3985.4,Efectivo,Querétaro
+313,01/04/2024,Rímel,NYX,Rostro,1363.81,6,8182.86,Efectivo,Puebla
+314,26/10/2023,Rubor,Revlon,Ojos,312.98,3,938.94,Transferencia,Baja California
+315,02/05/2023,Base,Fenty Beauty,Rostro,362.75,5,1813.75,Transferencia,Puebla
+316,17/05/2024,Rubor,Clinique,Labios,993.71,5,4968.55,Transferencia,Estado de México
+317,18/01/2023,Rímel,NYX,Labios,687.56,1,687.56,Transferencia,Sonora
+318,23/05/2023,Corrector,NYX,Ojos,1339.49,1,1339.49,Efectivo,Estado de México
+319,11/09/2024,Sombras,Urban Decay,Rostro,430.37,3,1291.11,Efectivo,Sonora
+320,07/09/2024,Corrector,Fenty Beauty,Rostro,677.98,6,4067.88,Efectivo,Estado de México
+321,22/10/2024,Delineador,NARS,Labios,132.87,3,398.61,Transferencia,Querétaro
+322,08/07/2024,Corrector,NYX,Labios,132.61,3,397.83,Transferencia,Aguascalientes
+323,02/07/2024,Base,Clinique,Rostro,1335.16,5,6675.8,Transferencia,Querétaro
+324,18/02/2023,Sombras,Fenty Beauty,Labios,910.49,4,3641.96,Transferencia,Querétaro
+325,28/05/2023,Sombras,NYX,Rostro,1408.03,3,4224.09,Transferencia,Sonora
+326,26/03/2024,Delineador,NARS,Rostro,520.16,6,3120.96,Efectivo,Puebla
+327,09/06/2024,Base,NARS,Rostro,125.89,1,125.89,Transferencia,Querétaro
+328,09/01/2023,Base,MAC,Ojos,1207.66,4,4830.64,Transferencia,Guanajuato
+329,23/06/2024,Base,Clinique,Rostro,1440.07,5,7200.35,Transferencia,Aguascalientes
+330,27/01/2023,Labial,L'Oréal,Labios,348.08,4,1392.32,Transferencia,Aguascalientes
+331,20/08/2024,Iluminador,NYX,Labios,142.06,4,568.24,Transferencia,Sonora
+332,25/10/2023,Labial,Fenty Beauty,Ojos,778.08,1,778.08,Efectivo,Querétaro
+333,21/04/2024,Iluminador,Fenty Beauty,Labios,422.68,5,2113.4,Efectivo,Puebla
+334,16/10/2024,Iluminador,NYX,Ojos,317.43,1,317.43,Transferencia,Chihuahua
+335,05/01/2023,Delineador,Maybelline,Ojos,1048.27,3,3144.81,Transferencia,Guanajuato
+336,02/02/2023,Corrector,Revlon,Labios,1084.19,6,6505.14,Efectivo,Aguascalientes
+337,21/11/2023,Rímel,MAC,Ojos,767.15,1,767.15,Transferencia,Puebla
+338,06/02/2024,Corrector,NYX,Rostro,287.36,5,1436.8,Efectivo,Aguascalientes
+339,17/09/2023,Corrector,NYX,Labios,1108.18,3,3324.54,Efectivo,Puebla
+340,17/07/2023,Sombras,Clinique,Rostro,437.94,1,437.94,Efectivo,Sonora
+341,07/01/2024,Base,NARS,Labios,60.69,5,303.45,Transferencia,Baja California
+342,15/10/2024,Labial,Maybelline,Rostro,487.03,1,487.03,Transferencia,Baja California
+343,24/04/2024,Labial,L'Oréal,Ojos,1231.27,2,2462.54,Efectivo,Baja California
+344,21/01/2023,Labial,Revlon,Ojos,1485.9,5,7429.5,Transferencia,Nuevo León
+345,06/09/2024,Delineador,NYX,Ojos,753.86,6,4523.16,Efectivo,Sinaloa
+346,17/02/2023,Delineador,NARS,Ojos,1406.73,1,1406.73,Efectivo,Puebla
+347,08/03/2024,Iluminador,NARS,Rostro,479.45,5,2397.25,Transferencia,Querétaro
+348,08/05/2024,Rímel,Fenty Beauty,Rostro,112.53,6,675.18,Transferencia,Aguascalientes
+349,15/11/2024,Iluminador,Fenty Beauty,Ojos,1446.41,5,7232.05,Efectivo,Baja California
+350,16/03/2023,Corrector,Fenty Beauty,Labios,315.53,6,1893.18,Transferencia,Guanajuato
+351,02/08/2023,Iluminador,MAC,Rostro,312.26,5,1561.3,Transferencia,Querétaro
+352,13/10/2023,Rímel,Clinique,Ojos,1469.11,2,2938.22,Efectivo,Nuevo León
+353,13/11/2024,Rubor,Revlon,Rostro,1185.84,3,3557.52,Efectivo,Querétaro
+354,19/01/2024,Delineador,L'Oréal,Labios,537.49,3,1612.47,Transferencia,Sinaloa
+355,01/08/2024,Sombras,NYX,Rostro,1186.85,1,1186.85,Efectivo,Guanajuato
+356,22/06/2024,Rubor,Urban Decay,Ojos,1101.52,6,6609.12,Efectivo,Estado de México
+357,04/07/2024,Delineador,Fenty Beauty,Labios,1223.66,5,6118.3,Transferencia,Estado de México
+358,15/09/2023,Labial,Maybelline,Rostro,1431.82,1,1431.82,Transferencia,Sinaloa
+359,13/10/2023,Corrector,NARS,Labios,135.73,6,814.38,Efectivo,Sinaloa
+360,04/11/2024,Corrector,Revlon,Labios,245.36,2,490.72,Transferencia,Estado de México
+361,09/09/2024,Labial,NYX,Rostro,662.48,1,662.48,Efectivo,Aguascalientes
+362,02/01/2024,Labial,Clinique,Rostro,789.3,1,789.3,Transferencia,Estado de México
+363,07/02/2023,Iluminador,MAC,Rostro,80.93,6,485.58,Transferencia,Jalisco
+364,06/05/2024,Iluminador,NARS,Labios,157.75,6,946.5,Transferencia,Ciudad de México
+365,15/05/2023,Base,Fenty Beauty,Ojos,1475.66,3,4426.98,Transferencia,Sonora
+366,07/06/2024,Rímel,Urban Decay,Labios,842.03,2,1684.06,Efectivo,Aguascalientes
+367,19/12/2023,Base,Clinique,Ojos,1020.8,5,5104,Efectivo,Baja California
+368,07/01/2024,Corrector,L'Oréal,Rostro,1053.89,4,4215.56,Transferencia,Guanajuato
+369,08/07/2024,Delineador,L'Oréal,Rostro,551.72,5,2758.6,Efectivo,Aguascalientes
+370,10/12/2023,Rímel,Maybelline,Ojos,445.17,6,2671.02,Transferencia,Querétaro
+371,24/01/2023,Polvo Compacto,Revlon,Ojos,419.52,1,419.52,Transferencia,Baja California
+372,22/05/2024,Labial,Urban Decay,Ojos,710.11,2,1420.22,Efectivo,Baja California
+373,03/07/2024,Delineador,Urban Decay,Ojos,734.12,2,1468.24,Efectivo,Sinaloa
+374,15/10/2023,Corrector,L'Oréal,Ojos,1176.37,3,3529.11,Transferencia,Aguascalientes
+375,21/03/2024,Labial,Maybelline,Rostro,777.49,6,4664.94,Efectivo,Guanajuato
+376,16/01/2024,Corrector,Revlon,Rostro,580.55,1,580.55,Transferencia,Querétaro
+377,16/10/2024,Iluminador,Revlon,Ojos,1354.9,1,1354.9,Efectivo,Sinaloa
+378,12/02/2023,Labial,MAC,Labios,791.51,5,3957.55,Transferencia,Querétaro
+379,27/08/2024,Rímel,NARS,Ojos,873.66,5,4368.3,Transferencia,Baja California
+380,20/07/2023,Polvo Compacto,Fenty Beauty,Rostro,908.01,3,2724.03,Transferencia,Sonora
+381,08/10/2023,Polvo Compacto,Maybelline,Ojos,744.49,3,2233.47,Efectivo,Puebla
+382,01/02/2024,Polvo Compacto,Clinique,Labios,96.34,6,578.04,Efectivo,Puebla
+383,16/08/2024,Iluminador,Clinique,Rostro,959.01,2,1918.02,Efectivo,Guanajuato
+384,20/04/2023,Corrector,Maybelline,Labios,426.3,1,426.3,Efectivo,Puebla
+385,10/11/2023,Base,Clinique,Ojos,1461.33,4,5845.32,Efectivo,Aguascalientes
+386,19/02/2024,Polvo Compacto,Maybelline,Rostro,501.12,3,1503.36,Transferencia,Sinaloa
+387,22/01/2024,Corrector,NARS,Ojos,152.89,1,152.89,Transferencia,Nuevo León
+388,24/01/2023,Polvo Compacto,Fenty Beauty,Rostro,1259.69,3,3779.07,Efectivo,Chihuahua
+389,14/01/2024,Delineador,L'Oréal,Ojos,1234.55,6,7407.3,Efectivo,Estado de México
+390,20/02/2024,Rubor,NYX,Rostro,1205.98,5,6029.9,Efectivo,Ciudad de México
+391,22/05/2023,Labial,MAC,Rostro,1486.98,5,7434.9,Transferencia,Nuevo León
+392,08/01/2023,Sombras,Clinique,Rostro,176.72,2,353.44,Transferencia,Aguascalientes
+393,20/07/2023,Base,NARS,Labios,566.01,2,1132.02,Efectivo,Sinaloa
+394,14/07/2024,Rubor,MAC,Rostro,1251.73,2,2503.46,Efectivo,Jalisco
+395,02/01/2024,Corrector,Fenty Beauty,Ojos,155.81,2,311.62,Efectivo,Sonora
+396,12/02/2023,Rímel,Urban Decay,Ojos,1400.7,1,1400.7,Efectivo,Sinaloa
+397,19/11/2023,Base,Maybelline,Labios,1406.62,2,2813.24,Transferencia,Sonora
+398,20/09/2023,Labial,NYX,Ojos,1325.04,3,3975.12,Efectivo,Estado de México
+399,15/09/2024,Labial,L'Oréal,Rostro,1103.98,3,3311.94,Transferencia,Sinaloa
+400,16/05/2023,Rubor,L'Oréal,Ojos,105.29,6,631.74,Transferencia,Ciudad de México
+401,18/10/2024,Base,Revlon,Ojos,1155.99,6,6935.94,Transferencia,Nuevo León
+402,18/11/2024,Corrector,Fenty Beauty,Ojos,688.8,2,1377.6,Transferencia,Puebla
+403,07/07/2024,Corrector,L'Oréal,Rostro,804.56,5,4022.8,Transferencia,Puebla
+404,24/09/2023,Iluminador,L'Oréal,Ojos,1079.33,6,6475.98,Efectivo,Sonora
+405,23/07/2023,Polvo Compacto,Revlon,Ojos,623.37,4,2493.48,Transferencia,Sonora
+406,18/02/2023,Corrector,MAC,Ojos,237.66,3,712.98,Efectivo,Sinaloa
+407,12/03/2023,Rímel,Fenty Beauty,Rostro,1058.62,6,6351.72,Transferencia,Estado de México
+408,08/06/2024,Polvo Compacto,NYX,Rostro,1433.02,1,1433.02,Efectivo,Puebla
+409,04/03/2023,Polvo Compacto,Maybelline,Labios,775.22,4,3100.88,Efectivo,Jalisco
+410,15/08/2024,Iluminador,L'Oréal,Labios,1030.07,1,1030.07,Efectivo,Sonora
+411,15/04/2024,Polvo Compacto,NARS,Rostro,999.73,6,5998.38,Efectivo,Guanajuato
+412,17/05/2023,Labial,Revlon,Rostro,535.38,3,1606.14,Transferencia,Chihuahua
+413,03/10/2023,Iluminador,Revlon,Labios,554.85,1,554.85,Transferencia,Jalisco
+414,03/07/2024,Corrector,L'Oréal,Ojos,1040.42,3,3121.26,Transferencia,Ciudad de México
+415,08/10/2023,Polvo Compacto,NYX,Labios,1400.92,3,4202.76,Efectivo,Nuevo León
+416,04/11/2024,Rubor,Fenty Beauty,Labios,1106.76,3,3320.28,Efectivo,Chihuahua
+417,12/05/2023,Labial,Clinique,Rostro,267.58,3,802.74,Efectivo,Puebla
+418,14/01/2023,Polvo Compacto,L'Oréal,Labios,1306.1,4,5224.4,Efectivo,Querétaro
+419,12/11/2023,Sombras,Clinique,Rostro,876.4,1,876.4,Efectivo,Puebla
+420,05/09/2023,Rímel,NARS,Ojos,521.91,2,1043.82,Transferencia,Estado de México
+421,16/08/2024,Labial,Fenty Beauty,Ojos,713.61,6,4281.66,Efectivo,Ciudad de México
+422,22/09/2024,Rímel,L'Oréal,Labios,709.69,2,1419.38,Transferencia,Sinaloa
+423,09/04/2023,Base,Urban Decay,Rostro,270.9,4,1083.6,Transferencia,Puebla
+424,14/02/2023,Iluminador,NARS,Rostro,937.74,3,2813.22,Efectivo,Chihuahua
+425,12/10/2024,Rímel,Revlon,Labios,795.23,1,795.23,Efectivo,Chihuahua
+426,03/11/2024,Corrector,MAC,Rostro,258.64,1,258.64,Transferencia,Sonora
+427,02/05/2023,Rímel,NYX,Rostro,538.92,5,2694.6,Transferencia,Jalisco
+428,15/07/2024,Sombras,Clinique,Labios,1059.03,5,5295.15,Transferencia,Chihuahua
+429,21/07/2024,Rímel,Fenty Beauty,Labios,260.44,3,781.32,Efectivo,Sonora
+430,26/06/2024,Rímel,Revlon,Ojos,439.36,3,1318.08,Efectivo,Querétaro
+431,04/09/2023,Corrector,NYX,Rostro,276.32,5,1381.6,Transferencia,Sinaloa
+432,21/09/2024,Polvo Compacto,Urban Decay,Labios,68.07,4,272.28,Efectivo,Jalisco
+433,18/06/2024,Iluminador,MAC,Ojos,220.92,6,1325.52,Efectivo,Nuevo León
+434,17/09/2024,Sombras,Maybelline,Labios,262.84,1,262.84,Transferencia,Guanajuato
+435,20/01/2023,Polvo Compacto,Maybelline,Rostro,749.32,5,3746.6,Efectivo,Querétaro
+436,24/04/2023,Rubor,Clinique,Rostro,1456.24,6,8737.44,Efectivo,Guanajuato
+437,14/09/2023,Rímel,Maybelline,Ojos,543.38,2,1086.76,Efectivo,Estado de México
+438,11/06/2024,Polvo Compacto,MAC,Rostro,253.57,6,1521.42,Efectivo,Sinaloa
+439,22/11/2024,Iluminador,L'Oréal,Labios,1250.54,5,6252.7,Efectivo,Aguascalientes
+440,13/02/2023,Rímel,Urban Decay,Ojos,681.85,4,2727.4,Efectivo,Jalisco
+441,17/11/2023,Rímel,Fenty Beauty,Labios,639.03,6,3834.18,Efectivo,Chihuahua
+442,26/04/2023,Polvo Compacto,L'Oréal,Ojos,807.19,3,2421.57,Transferencia,Guanajuato
+443,03/04/2024,Polvo Compacto,NARS,Ojos,757.67,6,4546.02,Efectivo,Sonora
+444,22/02/2023,Base,Clinique,Rostro,868.28,1,868.28,Transferencia,Ciudad de México
+445,19/07/2023,Delineador,Revlon,Labios,858.93,6,5153.58,Transferencia,Aguascalientes
+446,27/09/2024,Sombras,NARS,Ojos,433.41,4,1733.64,Efectivo,Puebla
+447,21/06/2023,Polvo Compacto,Fenty Beauty,Ojos,388.59,3,1165.77,Efectivo,Querétaro
+448,15/05/2023,Polvo Compacto,Fenty Beauty,Ojos,1016.96,4,4067.84,Transferencia,Estado de México
+449,25/02/2023,Delineador,Maybelline,Rostro,289.45,5,1447.25,Efectivo,Puebla
+450,10/01/2024,Labial,Urban Decay,Labios,819.49,6,4916.94,Efectivo,Chihuahua
+451,06/12/2023,Polvo Compacto,Maybelline,Labios,1415.99,6,8495.94,Transferencia,Guanajuato
+452,06/11/2023,Base,L'Oréal,Rostro,1397.18,5,6985.9,Transferencia,Ciudad de México
+453,20/10/2023,Delineador,Maybelline,Ojos,1070.66,4,4282.64,Transferencia,Sinaloa
+454,03/11/2024,Polvo Compacto,Clinique,Rostro,124.27,6,745.62,Transferencia,Puebla
+455,23/08/2024,Polvo Compacto,Maybelline,Labios,995.86,4,3983.44,Transferencia,Nuevo León
+456,05/03/2024,Labial,NYX,Ojos,147.89,2,295.78,Transferencia,Nuevo León
+457,19/12/2023,Sombras,Fenty Beauty,Rostro,881.8,2,1763.6,Transferencia,Ciudad de México
+458,06/08/2023,Base,Maybelline,Rostro,1200.25,4,4801,Efectivo,Nuevo León
+459,01/02/2024,Labial,NYX,Ojos,375.35,2,750.7,Transferencia,Nuevo León
+460,05/01/2023,Rubor,NARS,Ojos,1475.88,5,7379.4,Transferencia,Chihuahua
+461,18/06/2023,Iluminador,MAC,Ojos,188.79,4,755.16,Efectivo,Puebla
+462,01/10/2023,Rubor,Maybelline,Rostro,1420.02,6,8520.12,Transferencia,Sinaloa
+463,16/10/2024,Rímel,NYX,Ojos,936.63,3,2809.89,Efectivo,Sonora
+464,18/02/2024,Labial,Maybelline,Labios,616.04,2,1232.08,Efectivo,Jalisco
+465,27/05/2023,Rímel,Maybelline,Labios,1103.52,2,2207.04,Transferencia,Estado de México
+466,07/04/2024,Iluminador,Urban Decay,Rostro,1004.76,2,2009.52,Efectivo,Jalisco
+467,23/11/2024,Base,Revlon,Ojos,520.54,2,1041.08,Transferencia,Sonora
+468,21/06/2024,Labial,Maybelline,Rostro,1240.74,6,7444.44,Transferencia,Sonora
+469,05/02/2023,Rubor,Clinique,Labios,723.67,4,2894.68,Transferencia,Aguascalientes
+470,07/11/2023,Sombras,NYX,Rostro,822.4,5,4112,Transferencia,Puebla
+471,08/08/2023,Labial,Maybelline,Labios,827.56,6,4965.36,Transferencia,Estado de México
+472,01/04/2024,Delineador,Clinique,Ojos,1322.36,1,1322.36,Transferencia,Estado de México
+473,04/10/2023,Rímel,NYX,Ojos,1233.05,2,2466.1,Transferencia,Estado de México
+474,16/06/2024,Polvo Compacto,Urban Decay,Rostro,1155.46,6,6932.76,Transferencia,Nuevo León
+475,23/03/2024,Delineador,Clinique,Ojos,906.13,2,1812.26,Efectivo,Sonora
+476,17/02/2024,Base,NARS,Ojos,716.53,2,1433.06,Transferencia,Aguascalientes
+477,13/11/2023,Sombras,Maybelline,Labios,726.58,6,4359.48,Transferencia,Querétaro
+478,23/08/2024,Corrector,Revlon,Ojos,1376.07,3,4128.21,Efectivo,Guanajuato
+479,17/06/2024,Rímel,Revlon,Rostro,318.84,2,637.68,Transferencia,Aguascalientes
+480,08/01/2024,Sombras,Clinique,Labios,1068.27,2,2136.54,Transferencia,Estado de México
+481,20/07/2024,Polvo Compacto,L'Oréal,Ojos,129.83,2,259.66,Transferencia,Nuevo León
+482,26/05/2023,Rubor,Revlon,Ojos,1080.97,5,5404.85,Transferencia,Guanajuato
+483,08/07/2023,Rímel,NARS,Labios,1277.49,2,2554.98,Efectivo,Baja California
+484,08/05/2024,Labial,Fenty Beauty,Labios,300.46,6,1802.76,Efectivo,Estado de México
+485,06/07/2024,Polvo Compacto,NYX,Rostro,930.27,3,2790.81,Efectivo,Jalisco
+486,07/09/2023,Base,L'Oréal,Ojos,1091.33,5,5456.65,Transferencia,Aguascalientes
+487,06/03/2023,Labial,Urban Decay,Ojos,779.27,5,3896.35,Transferencia,Puebla
+488,06/08/2024,Corrector,NYX,Rostro,962.89,2,1925.78,Efectivo,Guanajuato
+489,04/10/2023,Labial,L'Oréal,Ojos,1487.2,5,7436,Transferencia,Sonora
+490,06/01/2023,Rímel,NYX,Rostro,1450.86,1,1450.86,Transferencia,Guanajuato
+491,12/08/2023,Labial,L'Oréal,Rostro,274.83,6,1648.98,Efectivo,Baja California
+492,20/10/2024,Rubor,NARS,Rostro,323.29,4,1293.16,Efectivo,Sinaloa
+493,04/04/2023,Labial,Fenty Beauty,Labios,1351.22,6,8107.32,Transferencia,Aguascalientes
+494,18/05/2023,Sombras,L'Oréal,Rostro,781.84,5,3909.2,Transferencia,Aguascalientes
+495,19/11/2024,Delineador,Revlon,Labios,1329.09,2,2658.18,Transferencia,Estado de México
+496,08/12/2023,Rubor,MAC,Ojos,1181.4,4,4725.6,Transferencia,Jalisco
+497,08/01/2024,Rubor,Clinique,Labios,1341.67,5,6708.35,Efectivo,Baja California
+498,04/08/2023,Polvo Compacto,Revlon,Labios,372.94,6,2237.64,Efectivo,Sonora
+499,01/09/2024,Labial,Clinique,Labios,371.09,6,2226.54,Efectivo,Guanajuato
+500,16/01/2023,Labial,Clinique,Labios,1323.33,5,6616.65,Efectivo,Sinaloa
+501,04/05/2024,Corrector,Urban Decay,Labios,625.9,5,3129.5,Efectivo,Baja California
+502,12/10/2023,Corrector,MAC,Labios,1059.14,3,3177.42,Efectivo,Sonora
+503,22/06/2023,Labial,Maybelline,Labios,165.77,4,663.08,Transferencia,Jalisco
+504,07/08/2024,Delineador,NARS,Rostro,1175.89,5,5879.45,Efectivo,Baja California
+505,24/01/2023,Base,MAC,Labios,1164.45,6,6986.7,Efectivo,Chihuahua
+506,12/04/2024,Polvo Compacto,Revlon,Labios,539.64,1,539.64,Efectivo,Sinaloa
+507,17/06/2024,Labial,Clinique,Ojos,394.49,2,788.98,Transferencia,Baja California
+508,28/08/2023,Base,MAC,Rostro,1271.59,4,5086.36,Transferencia,Jalisco
+509,17/04/2023,Base,Fenty Beauty,Labios,463.36,1,463.36,Transferencia,Sinaloa
+510,17/10/2024,Base,L'Oréal,Ojos,737.43,4,2949.72,Efectivo,Ciudad de México
+511,17/07/2023,Delineador,Clinique,Rostro,1418.57,2,2837.14,Efectivo,Guanajuato
+512,12/01/2024,Rímel,Revlon,Rostro,847.58,1,847.58,Transferencia,Sonora
+513,14/03/2024,Labial,NARS,Ojos,399.67,3,1199.01,Transferencia,Chihuahua
+514,09/06/2023,Base,Urban Decay,Labios,1253.7,1,1253.7,Transferencia,Estado de México
+515,20/01/2024,Sombras,Clinique,Rostro,1050.4,5,5252,Efectivo,Querétaro
+516,25/10/2024,Base,Clinique,Labios,77.04,2,154.08,Transferencia,Puebla
+517,12/10/2023,Sombras,Clinique,Ojos,417.06,5,2085.3,Efectivo,Aguascalientes
+518,23/09/2024,Rubor,Urban Decay,Ojos,211.46,4,845.84,Transferencia,Ciudad de México
+519,07/12/2023,Corrector,Revlon,Rostro,1228.91,3,3686.73,Efectivo,Sinaloa
+520,26/07/2024,Iluminador,L'Oréal,Labios,652.58,4,2610.32,Efectivo,Chihuahua
+521,18/08/2024,Delineador,Revlon,Ojos,1210.38,5,6051.9,Transferencia,Sinaloa
+522,08/07/2024,Delineador,Maybelline,Rostro,1285.7,2,2571.4,Efectivo,Nuevo León
+523,12/09/2024,Delineador,Revlon,Rostro,336.59,6,2019.54,Transferencia,Querétaro
+524,12/05/2024,Rubor,Urban Decay,Labios,132.21,4,528.84,Transferencia,Jalisco
+525,07/07/2024,Labial,Clinique,Labios,701.48,2,1402.96,Efectivo,Querétaro
+526,21/08/2024,Polvo Compacto,Clinique,Rostro,618.06,6,3708.36,Efectivo,Jalisco
+527,28/08/2023,Polvo Compacto,NARS,Labios,1130.15,4,4520.6,Efectivo,Sinaloa
+528,22/11/2024,Rubor,MAC,Rostro,1274.67,5,6373.35,Efectivo,Jalisco
+529,20/03/2024,Corrector,L'Oréal,Ojos,642.56,3,1927.68,Efectivo,Guanajuato
+530,14/05/2024,Base,Urban Decay,Ojos,1161.26,3,3483.78,Efectivo,Sinaloa
+531,04/01/2024,Labial,L'Oréal,Labios,145.04,3,435.12,Transferencia,Sonora
+532,07/04/2024,Delineador,L'Oréal,Ojos,797.58,5,3987.9,Efectivo,Ciudad de México
+533,06/12/2023,Delineador,MAC,Ojos,1142.98,5,5714.9,Efectivo,Estado de México
+534,18/07/2023,Iluminador,L'Oréal,Rostro,993.78,1,993.78,Transferencia,Estado de México
+535,01/05/2024,Corrector,MAC,Rostro,1132.42,3,3397.26,Efectivo,Baja California
+536,23/07/2023,Delineador,Fenty Beauty,Labios,1195.44,6,7172.64,Transferencia,Baja California
+537,10/09/2024,Iluminador,Maybelline,Rostro,741.08,5,3705.4,Transferencia,Guanajuato
+538,04/12/2023,Rímel,MAC,Labios,765.71,2,1531.42,Efectivo,Chihuahua
+539,05/10/2023,Labial,Fenty Beauty,Ojos,1359.63,6,8157.78,Transferencia,Ciudad de México
+540,27/11/2024,Polvo Compacto,Revlon,Ojos,431.46,6,2588.76,Efectivo,Baja California
+541,05/02/2024,Base,Clinique,Labios,930.94,6,5585.64,Efectivo,Sinaloa
+542,12/09/2024,Base,NYX,Ojos,572.57,1,572.57,Efectivo,Ciudad de México
+543,26/02/2023,Polvo Compacto,Urban Decay,Labios,240.77,5,1203.85,Efectivo,Puebla
+544,27/04/2024,Sombras,Revlon,Ojos,1275.51,1,1275.51,Efectivo,Guanajuato
+545,05/02/2023,Polvo Compacto,Urban Decay,Ojos,370.35,3,1111.05,Efectivo,Guanajuato
+546,11/03/2024,Iluminador,MAC,Rostro,1466.26,3,4398.78,Efectivo,Sonora
+547,10/07/2024,Rubor,MAC,Labios,685.46,2,1370.92,Efectivo,Sonora
+548,22/03/2024,Delineador,Urban Decay,Labios,1113.28,4,4453.12,Transferencia,Sonora
+549,20/12/2023,Rubor,NYX,Rostro,1233.14,2,2466.28,Efectivo,Jalisco
+550,15/06/2024,Base,MAC,Ojos,422.73,2,845.46,Transferencia,Aguascalientes
+551,10/09/2024,Sombras,Revlon,Rostro,658.34,2,1316.68,Efectivo,Aguascalientes
+552,03/10/2023,Polvo Compacto,Fenty Beauty,Labios,1238.86,5,6194.3,Efectivo,Chihuahua
+553,18/02/2024,Sombras,NYX,Labios,1362.32,1,1362.32,Transferencia,Guanajuato
+554,22/05/2024,Corrector,NYX,Ojos,176.51,4,706.04,Efectivo,Querétaro
+555,01/12/2023,Labial,MAC,Labios,862.28,1,862.28,Efectivo,Ciudad de México
+556,24/07/2024,Base,Clinique,Ojos,121.35,3,364.05,Transferencia,Guanajuato
+557,22/11/2024,Iluminador,Maybelline,Labios,1427.59,4,5710.36,Transferencia,Guanajuato
+558,28/09/2024,Rímel,MAC,Rostro,488.11,3,1464.33,Transferencia,Aguascalientes
+559,21/02/2023,Labial,Clinique,Ojos,836.93,1,836.93,Transferencia,Guanajuato
+560,28/06/2023,Corrector,NARS,Labios,167.95,3,503.85,Efectivo,Baja California
+561,02/12/2023,Delineador,Revlon,Ojos,770.64,2,1541.28,Transferencia,Aguascalientes
+562,09/01/2023,Corrector,MAC,Ojos,963.89,6,5783.34,Transferencia,Ciudad de México
+563,12/05/2024,Rímel,NYX,Rostro,1379.1,6,8274.6,Transferencia,Estado de México
+564,02/08/2023,Base,Revlon,Labios,1212.85,6,7277.1,Transferencia,Sonora
+565,22/07/2023,Iluminador,MAC,Ojos,1107.1,6,6642.6,Efectivo,Aguascalientes
+566,23/10/2024,Rímel,NYX,Rostro,989.97,1,989.97,Transferencia,Nuevo León
+567,27/08/2024,Delineador,L'Oréal,Rostro,250.96,2,501.92,Transferencia,Estado de México
+568,22/11/2023,Polvo Compacto,Revlon,Labios,1139.45,2,2278.9,Transferencia,Nuevo León
+569,16/05/2023,Labial,Maybelline,Ojos,81.67,1,81.67,Transferencia,Guanajuato
+570,27/05/2024,Polvo Compacto,Revlon,Rostro,552.51,2,1105.02,Transferencia,Querétaro
+571,11/01/2023,Rubor,Urban Decay,Ojos,122.93,4,491.72,Efectivo,Sonora
+572,25/05/2024,Delineador,NYX,Ojos,619.82,5,3099.1,Transferencia,Chihuahua
+573,08/04/2024,Labial,Maybelline,Rostro,1445.51,6,8673.06,Efectivo,Ciudad de México
+574,09/01/2023,Delineador,Fenty Beauty,Ojos,578.1,3,1734.3,Transferencia,Ciudad de México
+575,05/10/2024,Iluminador,Clinique,Rostro,852.7,2,1705.4,Transferencia,Aguascalientes
+576,12/06/2023,Labial,NARS,Ojos,639.49,2,1278.98,Efectivo,Ciudad de México
+577,19/12/2023,Base,Clinique,Labios,222.85,2,445.7,Efectivo,Puebla
+578,07/01/2024,Polvo Compacto,Maybelline,Labios,1155.93,2,2311.86,Efectivo,Baja California
+579,23/10/2024,Polvo Compacto,Fenty Beauty,Labios,1316.22,5,6581.1,Efectivo,Sonora
+580,09/05/2024,Polvo Compacto,MAC,Ojos,1377.48,3,4132.44,Efectivo,Guanajuato
+581,07/10/2023,Delineador,L'Oréal,Ojos,87.67,2,175.34,Transferencia,Estado de México
+582,17/05/2024,Rubor,Urban Decay,Labios,256.21,5,1281.05,Efectivo,Querétaro
+583,04/05/2023,Iluminador,Urban Decay,Labios,1044.12,5,5220.6,Transferencia,Nuevo León
+584,22/06/2024,Iluminador,NARS,Ojos,619.38,5,3096.9,Transferencia,Estado de México
+585,28/07/2024,Sombras,Maybelline,Rostro,1318.49,6,7910.94,Transferencia,Sonora
+586,10/07/2023,Polvo Compacto,L'Oréal,Rostro,1385.67,5,6928.35,Transferencia,Querétaro
+587,23/05/2024,Labial,Fenty Beauty,Rostro,1071.02,5,5355.1,Transferencia,Querétaro
+588,22/03/2024,Base,NARS,Labios,653.9,4,2615.6,Transferencia,Ciudad de México
+589,13/01/2024,Labial,L'Oréal,Rostro,1331.47,4,5325.88,Transferencia,Guanajuato
+590,17/06/2023,Rímel,NARS,Rostro,235.01,4,940.04,Transferencia,Sinaloa
+591,14/01/2023,Polvo Compacto,Urban Decay,Labios,888.92,5,4444.6,Transferencia,Puebla
+592,07/05/2023,Delineador,L'Oréal,Ojos,1310.97,1,1310.97,Transferencia,Ciudad de México
+593,05/05/2024,Corrector,Maybelline,Rostro,1168.28,4,4673.12,Transferencia,Puebla
+594,07/08/2023,Labial,Fenty Beauty,Rostro,870.28,2,1740.56,Efectivo,Sonora
+595,23/06/2024,Base,Maybelline,Ojos,265.98,4,1063.92,Efectivo,Baja California
+596,06/12/2023,Sombras,NYX,Ojos,757.16,3,2271.48,Efectivo,Ciudad de México
+597,16/01/2023,Polvo Compacto,Clinique,Rostro,307.96,1,307.96,Efectivo,Ciudad de México
+598,16/07/2023,Corrector,MAC,Labios,867.29,1,867.29,Efectivo,Jalisco
+599,04/01/2023,Delineador,MAC,Ojos,1261.88,2,2523.76,Transferencia,Sonora
+600,12/11/2024,Delineador,Fenty Beauty,Rostro,430.28,1,430.28,Efectivo,Estado de México
+601,26/09/2024,Corrector,MAC,Rostro,1110.43,4,4441.72,Transferencia,Guanajuato
+602,07/07/2024,Base,Revlon,Rostro,1098.78,5,5493.9,Transferencia,Baja California
+603,20/03/2023,Rímel,L'Oréal,Labios,1071.85,1,1071.85,Transferencia,Estado de México
+604,19/03/2023,Iluminador,Clinique,Labios,785.5,3,2356.5,Transferencia,Guanajuato
+605,22/09/2024,Delineador,Maybelline,Labios,1112.43,6,6674.58,Efectivo,Puebla
+606,20/04/2023,Polvo Compacto,NARS,Ojos,1386,4,5544,Efectivo,Aguascalientes
+607,11/04/2023,Labial,Fenty Beauty,Labios,1480.12,5,7400.6,Transferencia,Jalisco
+608,09/07/2024,Labial,NARS,Rostro,610.9,6,3665.4,Efectivo,Sonora
+609,04/03/2024,Labial,MAC,Rostro,986.45,3,2959.35,Transferencia,Baja California
+610,27/10/2024,Sombras,NYX,Rostro,357.72,6,2146.32,Efectivo,Estado de México
+611,03/01/2024,Corrector,MAC,Labios,139.56,1,139.56,Efectivo,Baja California
+612,04/03/2024,Iluminador,Revlon,Labios,957.27,5,4786.35,Efectivo,Sinaloa
+613,16/01/2023,Sombras,Revlon,Ojos,576,2,1152,Transferencia,Estado de México
+614,25/11/2023,Polvo Compacto,NARS,Rostro,268.7,5,1343.5,Transferencia,Nuevo León
+615,10/05/2024,Base,NYX,Rostro,195.24,1,195.24,Efectivo,Sonora
+616,10/07/2024,Rímel,L'Oréal,Labios,1311.5,1,1311.5,Transferencia,Ciudad de México
+617,25/12/2023,Base,MAC,Rostro,380.16,2,760.32,Transferencia,Ciudad de México
+618,12/05/2023,Iluminador,MAC,Ojos,573.02,4,2292.08,Transferencia,Querétaro
+619,03/04/2024,Polvo Compacto,L'Oréal,Ojos,938.84,1,938.84,Efectivo,Puebla
+620,13/04/2023,Sombras,Revlon,Labios,1127.27,1,1127.27,Transferencia,Sinaloa
+621,03/08/2024,Corrector,NARS,Ojos,717.64,3,2152.92,Transferencia,Guanajuato
+622,08/08/2023,Base,Urban Decay,Ojos,1202.93,4,4811.72,Efectivo,Baja California
+623,21/03/2023,Iluminador,Clinique,Ojos,1097.09,4,4388.36,Efectivo,Sinaloa
+624,25/06/2024,Corrector,Maybelline,Ojos,411.3,6,2467.8,Transferencia,Puebla
+625,12/07/2024,Iluminador,MAC,Rostro,272.43,4,1089.72,Efectivo,Querétaro
+626,28/11/2023,Rubor,Revlon,Rostro,527.72,5,2638.6,Efectivo,Aguascalientes
+627,02/07/2023,Labial,NARS,Labios,550.72,5,2753.6,Transferencia,Sinaloa
+628,27/12/2023,Corrector,NYX,Ojos,316.86,4,1267.44,Transferencia,Chihuahua
+629,02/07/2024,Sombras,Clinique,Labios,279.25,5,1396.25,Efectivo,Jalisco
+630,10/02/2024,Rímel,Revlon,Rostro,364.2,4,1456.8,Transferencia,Estado de México
+631,19/05/2024,Base,MAC,Ojos,803.96,4,3215.84,Transferencia,Ciudad de México
+632,10/11/2024,Rubor,MAC,Ojos,946.6,4,3786.4,Transferencia,Jalisco
+633,18/05/2023,Rímel,Clinique,Labios,470.74,6,2824.44,Efectivo,Sonora
+634,09/01/2024,Rubor,Clinique,Ojos,1207.02,3,3621.06,Transferencia,Sinaloa
+635,03/03/2024,Sombras,NARS,Rostro,1391.56,4,5566.24,Transferencia,Jalisco
+636,16/01/2023,Delineador,NARS,Ojos,99.25,4,397,Transferencia,Ciudad de México
+637,01/03/2023,Labial,Clinique,Ojos,1449.81,2,2899.62,Efectivo,Ciudad de México
+638,25/03/2023,Rímel,MAC,Labios,1396.33,4,5585.32,Transferencia,Aguascalientes
+639,02/09/2023,Delineador,NYX,Ojos,693.47,4,2773.88,Transferencia,Ciudad de México
+640,10/04/2024,Sombras,Clinique,Labios,180.46,1,180.46,Efectivo,Jalisco
+641,08/04/2023,Iluminador,Maybelline,Labios,1083.66,4,4334.64,Efectivo,Jalisco
+642,11/12/2023,Labial,Revlon,Labios,368.03,2,736.06,Efectivo,Puebla
+643,22/01/2023,Delineador,NYX,Labios,1092.82,4,4371.28,Transferencia,Jalisco
+644,02/08/2024,Rímel,NYX,Rostro,614.24,3,1842.72,Transferencia,Jalisco
+645,07/10/2023,Iluminador,MAC,Ojos,136.11,5,680.55,Efectivo,Sinaloa
+646,17/02/2023,Iluminador,NARS,Rostro,373.95,3,1121.85,Transferencia,Baja California
+647,01/10/2023,Polvo Compacto,Clinique,Rostro,1338.88,3,4016.64,Transferencia,Sinaloa
+648,20/01/2023,Rubor,Fenty Beauty,Labios,467.07,1,467.07,Efectivo,Aguascalientes
+649,17/04/2023,Polvo Compacto,NYX,Rostro,539.68,6,3238.08,Transferencia,Ciudad de México
+650,09/10/2023,Labial,NARS,Ojos,320.45,6,1922.7,Transferencia,Ciudad de México
+651,06/10/2023,Sombras,Revlon,Rostro,1231.64,6,7389.84,Efectivo,Ciudad de México
+652,02/11/2024,Labial,NARS,Rostro,550.67,2,1101.34,Efectivo,Estado de México
+653,27/04/2023,Base,Clinique,Ojos,788.94,6,4733.64,Transferencia,Jalisco
+654,22/01/2023,Polvo Compacto,NYX,Labios,274.19,1,274.19,Transferencia,Jalisco
+655,08/07/2024,Delineador,Fenty Beauty,Labios,423.22,6,2539.32,Transferencia,Querétaro
+656,21/03/2024,Polvo Compacto,NARS,Rostro,291.6,6,1749.6,Transferencia,Nuevo León
+657,22/01/2023,Corrector,MAC,Ojos,1025.28,3,3075.84,Efectivo,Querétaro
+658,10/11/2023,Labial,MAC,Ojos,1313.68,1,1313.68,Efectivo,Guanajuato
+659,13/11/2023,Sombras,NYX,Labios,1432.28,6,8593.68,Transferencia,Puebla
+660,15/03/2023,Polvo Compacto,MAC,Rostro,769.91,2,1539.82,Efectivo,Ciudad de México
+661,22/01/2023,Rímel,Maybelline,Rostro,429,3,1287,Transferencia,Baja California
+662,06/10/2023,Corrector,NYX,Ojos,121.25,4,485,Efectivo,Nuevo León
+663,19/06/2024,Base,Fenty Beauty,Ojos,1231.72,2,2463.44,Transferencia,Sinaloa
+664,04/02/2023,Base,Revlon,Ojos,1338.46,3,4015.38,Efectivo,Estado de México
+665,23/11/2024,Corrector,L'Oréal,Labios,1007.82,5,5039.1,Efectivo,Baja California
+666,09/08/2024,Sombras,MAC,Ojos,874.25,1,874.25,Efectivo,Estado de México
+667,16/10/2023,Sombras,Revlon,Rostro,452.94,6,2717.64,Transferencia,Jalisco
+668,17/09/2024,Base,Fenty Beauty,Rostro,1031.39,4,4125.56,Efectivo,Ciudad de México
+669,23/11/2023,Rubor,L'Oréal,Ojos,862.96,6,5177.76,Transferencia,Querétaro
+670,02/01/2024,Base,L'Oréal,Labios,1237.09,5,6185.45,Transferencia,Chihuahua
+671,06/09/2023,Polvo Compacto,NARS,Labios,927.05,5,4635.25,Transferencia,Puebla
+672,27/09/2024,Iluminador,Revlon,Ojos,1490.64,4,5962.56,Efectivo,Chihuahua
+673,24/08/2023,Polvo Compacto,NYX,Ojos,561.49,4,2245.96,Transferencia,Baja California
+674,17/07/2023,Polvo Compacto,Urban Decay,Ojos,860.19,4,3440.76,Transferencia,Sinaloa
+675,28/12/2023,Corrector,Urban Decay,Rostro,1054.36,3,3163.08,Transferencia,Sonora
+676,19/10/2023,Polvo Compacto,Urban Decay,Labios,761.08,5,3805.4,Efectivo,Puebla
+677,23/07/2024,Rubor,Maybelline,Ojos,1314.8,1,1314.8,Transferencia,Chihuahua
+678,26/03/2023,Rímel,Revlon,Labios,53.6,3,160.8,Transferencia,Nuevo León
+679,16/03/2024,Iluminador,Urban Decay,Ojos,656.57,2,1313.14,Efectivo,Jalisco
+680,11/04/2023,Base,Maybelline,Labios,220.55,4,882.2,Efectivo,Baja California
+681,24/10/2023,Rubor,NYX,Ojos,999.14,5,4995.7,Transferencia,Aguascalientes
+682,16/05/2024,Labial,L'Oréal,Ojos,1390.73,5,6953.65,Efectivo,Sonora
+683,21/05/2024,Rímel,MAC,Ojos,978.42,5,4892.1,Transferencia,Sinaloa
+684,25/09/2023,Delineador,NARS,Ojos,719.61,3,2158.83,Efectivo,Ciudad de México
+685,19/09/2023,Labial,L'Oréal,Rostro,922.36,4,3689.44,Transferencia,Sinaloa
+686,11/03/2024,Sombras,Urban Decay,Labios,83.54,2,167.08,Efectivo,Jalisco
+687,20/07/2023,Labial,Clinique,Labios,490.52,4,1962.08,Efectivo,Puebla
+688,09/12/2023,Rubor,NYX,Rostro,1046.62,1,1046.62,Transferencia,Sonora
+689,16/11/2024,Rubor,Urban Decay,Ojos,314.27,3,942.81,Efectivo,Estado de México
+690,28/08/2024,Delineador,Fenty Beauty,Labios,101.86,5,509.3,Efectivo,Ciudad de México
+691,13/02/2024,Polvo Compacto,Clinique,Rostro,444.08,6,2664.48,Transferencia,Aguascalientes
+692,03/08/2023,Rubor,Clinique,Labios,319.71,4,1278.84,Transferencia,Jalisco
+693,24/08/2023,Base,L'Oréal,Rostro,318.81,5,1594.05,Efectivo,Nuevo León
+694,15/07/2024,Iluminador,NYX,Ojos,115.77,1,115.77,Efectivo,Nuevo León
+695,10/04/2023,Base,Clinique,Rostro,760.76,1,760.76,Efectivo,Nuevo León
+696,13/07/2023,Polvo Compacto,NARS,Rostro,1325.62,3,3976.86,Efectivo,Baja California
+697,10/02/2024,Iluminador,Maybelline,Rostro,1214.12,1,1214.12,Transferencia,Aguascalientes
+698,14/04/2024,Rímel,NARS,Labios,1443.13,4,5772.52,Efectivo,Ciudad de México
+699,20/07/2024,Labial,Clinique,Rostro,1203.14,3,3609.42,Efectivo,Ciudad de México
+700,18/09/2023,Rubor,Revlon,Labios,675.3,1,675.3,Transferencia,Baja California
+701,16/03/2023,Sombras,Urban Decay,Ojos,307.82,3,923.46,Efectivo,Jalisco
+702,09/03/2023,Base,Urban Decay,Labios,928.27,5,4641.35,Transferencia,Nuevo León
+703,08/04/2023,Rubor,Urban Decay,Labios,1243.22,2,2486.44,Transferencia,Sonora
+704,28/04/2024,Iluminador,NYX,Rostro,584.02,1,584.02,Transferencia,Jalisco
+705,08/07/2024,Iluminador,MAC,Rostro,567.48,2,1134.96,Transferencia,Chihuahua
+706,01/07/2024,Polvo Compacto,Fenty Beauty,Labios,680.3,3,2040.9,Transferencia,Puebla
+707,13/04/2023,Sombras,Urban Decay,Rostro,849.15,1,849.15,Efectivo,Baja California
+708,09/06/2023,Sombras,NYX,Rostro,1098.4,1,1098.4,Efectivo,Puebla
+709,16/08/2024,Rímel,Clinique,Rostro,568.93,3,1706.79,Efectivo,Baja California
+710,05/04/2024,Sombras,L'Oréal,Labios,1114.76,5,5573.8,Transferencia,Puebla
+711,24/09/2024,Labial,NYX,Labios,757.85,4,3031.4,Efectivo,Baja California
+712,02/08/2023,Delineador,MAC,Rostro,1313.94,2,2627.88,Transferencia,Sinaloa
+713,16/09/2024,Rímel,Clinique,Ojos,246.33,3,738.99,Efectivo,Querétaro
+714,12/02/2024,Base,Clinique,Ojos,1475.13,1,1475.13,Efectivo,Ciudad de México
+715,09/08/2024,Iluminador,L'Oréal,Rostro,957.73,1,957.73,Transferencia,Nuevo León
+716,06/03/2023,Rubor,Revlon,Labios,992.14,1,992.14,Efectivo,Sinaloa
+717,20/01/2023,Labial,NYX,Rostro,1235.13,1,1235.13,Efectivo,Estado de México
+718,26/02/2023,Polvo Compacto,Maybelline,Labios,314.21,3,942.63,Efectivo,Sonora
+719,28/03/2024,Base,Maybelline,Labios,1375.63,2,2751.26,Transferencia,Baja California
+720,07/01/2024,Polvo Compacto,L'Oréal,Rostro,969.64,6,5817.84,Efectivo,Puebla
+721,24/04/2023,Iluminador,Revlon,Ojos,682.11,5,3410.55,Efectivo,Aguascalientes
+722,12/04/2023,Labial,L'Oréal,Labios,330.74,3,992.22,Transferencia,Chihuahua
+723,28/06/2024,Base,NYX,Labios,482.69,2,965.38,Efectivo,Querétaro
+724,25/04/2023,Delineador,Fenty Beauty,Ojos,379.41,3,1138.23,Efectivo,Sonora
+725,19/05/2024,Rímel,Maybelline,Ojos,649.63,2,1299.26,Efectivo,Ciudad de México
+726,22/05/2024,Polvo Compacto,NARS,Ojos,783.68,6,4702.08,Transferencia,Sonora
+727,09/12/2023,Rímel,NARS,Rostro,839.61,5,4198.05,Transferencia,Sonora
+728,04/11/2023,Iluminador,Fenty Beauty,Ojos,1460.23,3,4380.69,Transferencia,Aguascalientes
+729,05/01/2024,Rubor,NYX,Labios,275.04,4,1100.16,Transferencia,Querétaro
+730,09/05/2024,Polvo Compacto,L'Oréal,Ojos,360.83,1,360.83,Transferencia,Aguascalientes
+731,21/06/2023,Sombras,Fenty Beauty,Labios,325.11,2,650.22,Efectivo,Jalisco
+732,09/05/2024,Sombras,NYX,Ojos,1361.23,3,4083.69,Transferencia,Sonora
+733,04/08/2024,Base,NYX,Labios,1094.94,3,3284.82,Transferencia,Ciudad de México
+734,21/10/2023,Polvo Compacto,Fenty Beauty,Labios,562.69,1,562.69,Efectivo,Sonora
+735,21/02/2023,Labial,L'Oréal,Ojos,376.7,6,2260.2,Transferencia,Baja California
+736,07/08/2024,Corrector,Clinique,Rostro,900.84,3,2702.52,Efectivo,Nuevo León
+737,18/11/2024,Sombras,Revlon,Ojos,356.63,4,1426.52,Transferencia,Sonora
+738,05/03/2024,Rímel,Fenty Beauty,Labios,623.49,5,3117.45,Efectivo,Guanajuato
+739,19/12/2023,Rubor,NYX,Ojos,190.96,1,190.96,Efectivo,Baja California
+740,20/04/2023,Iluminador,L'Oréal,Labios,1378.18,5,6890.9,Transferencia,Sonora
+741,02/11/2023,Labial,Urban Decay,Labios,947.49,1,947.49,Transferencia,Aguascalientes
+742,07/07/2024,Rímel,Revlon,Rostro,641.94,1,641.94,Transferencia,Querétaro
+743,13/04/2023,Labial,Urban Decay,Rostro,240.11,5,1200.55,Transferencia,Guanajuato
+744,15/10/2023,Base,NARS,Labios,394.7,4,1578.8,Efectivo,Guanajuato
+745,08/01/2024,Polvo Compacto,NYX,Rostro,148.88,5,744.4,Efectivo,Estado de México
+746,12/12/2023,Rubor,Revlon,Rostro,1259.81,3,3779.43,Transferencia,Puebla
+747,01/03/2024,Rímel,L'Oréal,Ojos,885.31,1,885.31,Transferencia,Jalisco
+748,12/01/2024,Rímel,Maybelline,Labios,1316.4,5,6582,Efectivo,Sinaloa
+749,22/12/2023,Rímel,L'Oréal,Ojos,858.51,6,5151.06,Efectivo,Estado de México
+750,21/11/2024,Labial,Urban Decay,Rostro,864.97,6,5189.82,Transferencia,Guanajuato
+751,27/02/2023,Labial,Fenty Beauty,Labios,1151.91,6,6911.46,Efectivo,Sonora
+752,17/02/2024,Rímel,Clinique,Ojos,1193.54,3,3580.62,Efectivo,Aguascalientes
+753,14/11/2023,Iluminador,Revlon,Labios,665.73,3,1997.19,Transferencia,Chihuahua
+754,02/05/2023,Labial,Urban Decay,Ojos,313.95,3,941.85,Efectivo,Guanajuato
+755,18/11/2024,Polvo Compacto,Clinique,Labios,1079.28,2,2158.56,Efectivo,Puebla
+756,16/09/2024,Delineador,NARS,Labios,1460.73,2,2921.46,Transferencia,Estado de México
+757,26/08/2023,Polvo Compacto,Urban Decay,Labios,681.83,4,2727.32,Transferencia,Sinaloa
+758,01/01/2024,Iluminador,L'Oréal,Ojos,646.45,3,1939.35,Transferencia,Guanajuato
+759,13/04/2024,Base,Fenty Beauty,Rostro,1185.41,5,5927.05,Efectivo,Sinaloa
+760,04/09/2024,Rubor,Urban Decay,Ojos,520.18,3,1560.54,Efectivo,Chihuahua
+761,05/04/2023,Iluminador,NARS,Ojos,640.71,1,640.71,Efectivo,Jalisco
+762,21/10/2024,Rubor,L'Oréal,Ojos,696.64,2,1393.28,Efectivo,Baja California
+763,06/11/2023,Sombras,Revlon,Labios,1061.97,3,3185.91,Transferencia,Baja California
+764,26/02/2023,Polvo Compacto,NYX,Rostro,957.63,6,5745.78,Efectivo,Baja California
+765,11/10/2023,Base,NARS,Labios,849.6,4,3398.4,Transferencia,Guanajuato
+766,10/08/2024,Rubor,Clinique,Labios,1465.07,2,2930.14,Transferencia,Querétaro
+767,17/09/2023,Delineador,Revlon,Ojos,1273.05,4,5092.2,Transferencia,Querétaro
+768,24/11/2023,Delineador,MAC,Rostro,1268.83,2,2537.66,Transferencia,Chihuahua
+769,06/10/2024,Iluminador,Urban Decay,Labios,1132.75,3,3398.25,Efectivo,Jalisco
+770,17/02/2023,Labial,Revlon,Labios,677.8,3,2033.4,Transferencia,Jalisco
+771,16/05/2023,Iluminador,Revlon,Labios,226.45,2,452.9,Efectivo,Ciudad de México
+772,09/05/2023,Polvo Compacto,NYX,Rostro,385.36,1,385.36,Transferencia,Aguascalientes
+773,17/02/2024,Base,Revlon,Ojos,301.55,6,1809.3,Efectivo,Jalisco
+774,12/11/2024,Base,L'Oréal,Labios,1209.99,3,3629.97,Efectivo,Puebla
+775,27/07/2024,Iluminador,L'Oréal,Ojos,372.49,5,1862.45,Transferencia,Sinaloa
+776,25/04/2024,Delineador,NARS,Ojos,1394.58,4,5578.32,Efectivo,Puebla
+777,13/05/2023,Iluminador,Revlon,Labios,134.92,1,134.92,Efectivo,Estado de México
+778,19/10/2024,Polvo Compacto,NYX,Labios,1040.54,3,3121.62,Efectivo,Puebla
+779,28/11/2023,Rímel,NARS,Rostro,992.2,4,3968.8,Efectivo,Nuevo León
+780,25/07/2023,Labial,NARS,Ojos,1113.43,6,6680.58,Efectivo,Sonora
+781,07/07/2023,Base,L'Oréal,Labios,1496.43,1,1496.43,Transferencia,Sonora
+782,02/09/2024,Labial,NYX,Labios,586.21,5,2931.05,Efectivo,Aguascalientes
+783,20/06/2023,Polvo Compacto,Urban Decay,Ojos,1342.9,2,2685.8,Efectivo,Estado de México
+784,16/12/2023,Labial,Revlon,Rostro,970.63,5,4853.15,Transferencia,Estado de México
+785,10/12/2023,Rubor,Revlon,Ojos,1151.94,2,2303.88,Efectivo,Puebla
+786,19/05/2024,Base,L'Oréal,Ojos,1418.9,6,8513.4,Transferencia,Estado de México
+787,11/01/2024,Labial,MAC,Rostro,404.12,5,2020.6,Transferencia,Guanajuato
+788,14/05/2024,Corrector,NYX,Rostro,1113.17,2,2226.34,Efectivo,Jalisco
+789,16/02/2023,Labial,Fenty Beauty,Labios,1457.87,4,5831.48,Transferencia,Querétaro
+790,27/11/2024,Iluminador,NYX,Ojos,866.3,5,4331.5,Efectivo,Chihuahua
+791,01/04/2023,Base,Maybelline,Labios,687.35,4,2749.4,Transferencia,Aguascalientes
+792,23/08/2023,Labial,Fenty Beauty,Labios,816.33,2,1632.66,Efectivo,Querétaro
+793,12/06/2024,Sombras,MAC,Labios,1373.91,5,6869.55,Efectivo,Ciudad de México
+794,10/09/2024,Corrector,L'Oréal,Ojos,1386.16,5,6930.8,Efectivo,Chihuahua
+795,12/03/2024,Polvo Compacto,Fenty Beauty,Ojos,364.05,1,364.05,Efectivo,Jalisco
+796,22/05/2023,Rímel,Maybelline,Rostro,1269.87,2,2539.74,Transferencia,Ciudad de México
+797,11/11/2023,Polvo Compacto,L'Oréal,Rostro,1176.93,4,4707.72,Efectivo,Chihuahua
+798,11/04/2023,Rubor,NYX,Rostro,355.9,1,355.9,Efectivo,Aguascalientes
+799,24/08/2023,Rubor,L'Oréal,Rostro,1071.48,6,6428.88,Transferencia,Nuevo León
+800,28/04/2023,Delineador,Maybelline,Rostro,621.97,4,2487.88,Efectivo,Sonora
+801,17/03/2024,Base,NARS,Labios,196.14,3,588.42,Transferencia,Ciudad de México
+802,20/01/2023,Base,NYX,Rostro,223.06,6,1338.36,Efectivo,Guanajuato
+803,24/04/2024,Sombras,Fenty Beauty,Labios,492.25,4,1969,Efectivo,Ciudad de México
+804,15/03/2024,Rubor,L'Oréal,Rostro,457.19,4,1828.76,Efectivo,Aguascalientes
+805,06/03/2023,Base,L'Oréal,Ojos,650.14,3,1950.42,Efectivo,Sinaloa
+806,14/07/2023,Rubor,Urban Decay,Labios,301.18,2,602.36,Efectivo,Sonora
+807,20/07/2023,Polvo Compacto,Fenty Beauty,Labios,787.29,6,4723.74,Efectivo,Sinaloa
+808,23/10/2023,Delineador,Urban Decay,Rostro,595.33,2,1190.66,Transferencia,Ciudad de México
+809,06/02/2023,Rubor,Maybelline,Labios,680.3,1,680.3,Transferencia,Sonora
+810,10/10/2024,Sombras,Revlon,Rostro,145.91,6,875.46,Transferencia,Sinaloa
+811,24/01/2024,Delineador,NYX,Labios,825.87,2,1651.74,Efectivo,Sonora
+812,02/04/2023,Polvo Compacto,Urban Decay,Rostro,516.72,5,2583.6,Efectivo,Chihuahua
+813,15/04/2024,Sombras,MAC,Rostro,697.96,6,4187.76,Efectivo,Querétaro
+814,17/02/2023,Polvo Compacto,Clinique,Ojos,1285.55,1,1285.55,Efectivo,Aguascalientes
+815,15/10/2024,Delineador,Fenty Beauty,Labios,696.03,4,2784.12,Efectivo,Puebla
+816,14/10/2024,Rubor,NYX,Rostro,1382.25,4,5529,Efectivo,Sinaloa
+817,27/08/2024,Corrector,MAC,Ojos,409.16,4,1636.64,Efectivo,Querétaro
+818,25/03/2023,Delineador,NARS,Ojos,909.33,2,1818.66,Transferencia,Sinaloa
+819,20/02/2024,Labial,Maybelline,Labios,750.86,2,1501.72,Efectivo,Aguascalientes
+820,06/09/2024,Base,Revlon,Labios,156.25,6,937.5,Transferencia,Aguascalientes
+821,10/08/2024,Rímel,Maybelline,Rostro,279.54,2,559.08,Transferencia,Aguascalientes
+822,16/09/2023,Polvo Compacto,Urban Decay,Ojos,673.46,6,4040.76,Transferencia,Estado de México
+823,06/04/2023,Rímel,Maybelline,Ojos,983.18,4,3932.72,Transferencia,Guanajuato
+824,04/12/2023,Base,L'Oréal,Rostro,186.12,5,930.6,Transferencia,Puebla
+825,27/02/2024,Delineador,L'Oréal,Labios,1126.02,4,4504.08,Transferencia,Sonora
+826,13/06/2024,Labial,MAC,Ojos,1299.97,6,7799.82,Efectivo,Sinaloa
+827,25/04/2024,Sombras,NYX,Rostro,198.73,2,397.46,Efectivo,Aguascalientes
+828,10/06/2023,Corrector,NARS,Rostro,746.31,2,1492.62,Efectivo,Estado de México
+829,23/10/2024,Iluminador,Clinique,Labios,1238.91,2,2477.82,Transferencia,Sinaloa
+830,28/01/2024,Labial,NYX,Ojos,196.03,2,392.06,Transferencia,Baja California
+831,05/03/2024,Delineador,NYX,Ojos,1355.85,4,5423.4,Efectivo,Nuevo León
+832,28/09/2024,Rubor,Urban Decay,Labios,1057.59,5,5287.95,Efectivo,Baja California
+833,21/02/2023,Sombras,Clinique,Rostro,1498.98,4,5995.92,Transferencia,Chihuahua
+834,11/11/2023,Rímel,Urban Decay,Ojos,837.19,6,5023.14,Efectivo,Guanajuato
+835,05/11/2023,Base,NARS,Labios,1340.21,1,1340.21,Efectivo,Sinaloa
+836,02/05/2023,Rímel,Revlon,Rostro,740.35,2,1480.7,Efectivo,Sonora
+837,13/08/2024,Rubor,Clinique,Rostro,1326.41,1,1326.41,Efectivo,Guanajuato
+838,11/02/2023,Sombras,Urban Decay,Rostro,1214.86,6,7289.16,Efectivo,Ciudad de México
+839,24/10/2024,Rímel,L'Oréal,Ojos,891.56,4,3566.24,Transferencia,Ciudad de México
+840,27/01/2023,Sombras,Revlon,Rostro,494.14,5,2470.7,Transferencia,Sinaloa
+841,26/06/2024,Delineador,MAC,Rostro,534.13,3,1602.39,Transferencia,Estado de México
+842,12/03/2024,Labial,Clinique,Ojos,843.33,5,4216.65,Efectivo,Baja California
+843,20/06/2024,Rímel,MAC,Ojos,1021.05,5,5105.25,Efectivo,Baja California
+844,27/03/2023,Delineador,Clinique,Labios,623.7,4,2494.8,Efectivo,Querétaro
+845,15/11/2024,Base,L'Oréal,Labios,62.66,2,125.32,Transferencia,Ciudad de México
+846,26/04/2023,Iluminador,MAC,Labios,329.89,3,989.67,Transferencia,Sonora
+847,14/09/2023,Rubor,MAC,Labios,844.25,1,844.25,Efectivo,Jalisco
+848,11/08/2023,Corrector,Revlon,Labios,1441.21,1,1441.21,Efectivo,Baja California
+849,16/11/2024,Polvo Compacto,NARS,Labios,59.84,3,179.52,Efectivo,Querétaro
+850,13/08/2023,Sombras,Clinique,Labios,988.22,5,4941.1,Transferencia,Sonora
+851,09/05/2024,Base,Maybelline,Rostro,1150.73,4,4602.92,Transferencia,Querétaro
+852,12/06/2024,Sombras,Urban Decay,Ojos,1066.5,6,6399,Transferencia,Querétaro
+853,17/11/2023,Delineador,Fenty Beauty,Ojos,1440.18,3,4320.54,Efectivo,Puebla
+854,10/08/2023,Rubor,MAC,Labios,289.75,4,1159,Efectivo,Sinaloa
+855,02/01/2024,Sombras,MAC,Ojos,542.47,4,2169.88,Transferencia,Jalisco
+856,11/03/2024,Iluminador,NYX,Ojos,1187.97,3,3563.91,Efectivo,Estado de México
+857,21/07/2023,Rímel,Urban Decay,Labios,1355.63,5,6778.15,Transferencia,Ciudad de México
+858,10/03/2024,Rubor,Urban Decay,Rostro,843.33,2,1686.66,Transferencia,Aguascalientes
+859,14/01/2023,Sombras,Fenty Beauty,Rostro,657.97,1,657.97,Efectivo,Aguascalientes
+860,07/12/2023,Labial,Fenty Beauty,Ojos,1224.66,3,3673.98,Transferencia,Sinaloa
+861,16/08/2023,Rímel,MAC,Ojos,1178.79,2,2357.58,Transferencia,Puebla
+862,03/11/2024,Labial,Clinique,Labios,903.34,5,4516.7,Efectivo,Estado de México
+863,12/10/2024,Labial,MAC,Labios,542.57,1,542.57,Efectivo,Ciudad de México
+864,16/06/2023,Labial,Urban Decay,Ojos,1112.86,4,4451.44,Transferencia,Sonora
+865,09/02/2024,Iluminador,Fenty Beauty,Labios,159.83,3,479.49,Efectivo,Sonora
+866,06/10/2023,Rímel,NARS,Labios,437.33,3,1311.99,Transferencia,Ciudad de México
+867,24/07/2023,Rímel,Clinique,Labios,1277.74,4,5110.96,Efectivo,Sonora
+868,26/05/2024,Rímel,L'Oréal,Labios,962.18,2,1924.36,Efectivo,Baja California
+869,12/11/2024,Iluminador,Clinique,Rostro,615.17,5,3075.85,Transferencia,Baja California
+870,27/02/2023,Iluminador,NYX,Labios,1190.29,1,1190.29,Efectivo,Sonora
+871,04/05/2023,Rímel,Urban Decay,Rostro,646.19,4,2584.76,Transferencia,Estado de México
+872,09/07/2024,Corrector,MAC,Rostro,1084.99,2,2169.98,Transferencia,Baja California
+873,03/10/2024,Rímel,NARS,Ojos,1280.84,6,7685.04,Efectivo,Baja California
+874,12/02/2024,Iluminador,MAC,Ojos,831.24,6,4987.44,Efectivo,Sinaloa
+875,21/03/2023,Delineador,Revlon,Labios,1290.19,2,2580.38,Efectivo,Puebla
+876,26/12/2023,Rubor,MAC,Ojos,1127.52,5,5637.6,Transferencia,Estado de México
+877,26/09/2024,Delineador,Urban Decay,Ojos,966.08,4,3864.32,Transferencia,Sonora
+878,17/05/2024,Corrector,NYX,Ojos,432.69,3,1298.07,Transferencia,Querétaro
+879,04/05/2023,Corrector,L'Oréal,Rostro,660.5,5,3302.5,Transferencia,Aguascalientes
+880,24/01/2023,Rímel,NYX,Labios,125.88,5,629.4,Transferencia,Nuevo León
+881,21/04/2024,Delineador,MAC,Rostro,1430.67,5,7153.35,Efectivo,Guanajuato
+882,22/12/2023,Delineador,L'Oréal,Rostro,841.23,4,3364.92,Transferencia,Guanajuato
+883,27/08/2023,Delineador,Maybelline,Ojos,1191.45,5,5957.25,Efectivo,Querétaro
+884,26/05/2024,Corrector,Revlon,Labios,517.57,5,2587.85,Transferencia,Guanajuato
+885,19/01/2023,Corrector,NYX,Ojos,214.04,1,214.04,Transferencia,Puebla
+886,02/05/2023,Iluminador,Clinique,Ojos,548.4,1,548.4,Efectivo,Estado de México
+887,15/11/2023,Polvo Compacto,Urban Decay,Labios,1208.02,3,3624.06,Efectivo,Sinaloa
+888,04/02/2023,Rímel,NARS,Rostro,771.45,3,2314.35,Transferencia,Baja California
+889,01/10/2024,Rubor,NARS,Ojos,390.15,6,2340.9,Transferencia,Jalisco
+890,05/11/2024,Base,NYX,Ojos,986.59,5,4932.95,Transferencia,Puebla
+891,02/07/2024,Polvo Compacto,L'Oréal,Labios,853.79,3,2561.37,Transferencia,Chihuahua
+892,01/06/2023,Labial,L'Oréal,Labios,1036.6,6,6219.6,Efectivo,Aguascalientes
+893,28/03/2024,Rímel,Urban Decay,Labios,527.54,5,2637.7,Transferencia,Chihuahua
+894,06/07/2024,Labial,NYX,Labios,893.72,3,2681.16,Transferencia,Sonora
+895,20/08/2023,Labial,NARS,Labios,261.27,4,1045.08,Transferencia,Baja California
+896,09/02/2024,Labial,Clinique,Rostro,1107.35,1,1107.35,Efectivo,Sinaloa
+897,16/02/2024,Labial,L'Oréal,Rostro,444.52,6,2667.12,Efectivo,Sonora
+898,28/04/2024,Corrector,L'Oréal,Rostro,623.28,5,3116.4,Efectivo,Querétaro
+899,23/06/2024,Sombras,NYX,Rostro,1327.17,4,5308.68,Efectivo,Querétaro
+900,19/05/2024,Labial,Urban Decay,Rostro,214.72,1,214.72,Efectivo,Estado de México
+901,17/05/2023,Polvo Compacto,Revlon,Labios,725.68,6,4354.08,Efectivo,Guanajuato
+902,20/03/2024,Sombras,L'Oréal,Ojos,1461.87,4,5847.48,Efectivo,Aguascalientes
+903,10/09/2024,Base,Revlon,Labios,279.6,2,559.2,Efectivo,Puebla
+904,13/07/2023,Iluminador,MAC,Labios,451.6,4,1806.4,Transferencia,Sonora
+905,17/03/2024,Labial,L'Oréal,Labios,1147.84,3,3443.52,Transferencia,Baja California
+906,28/10/2024,Corrector,Revlon,Ojos,178.37,4,713.48,Transferencia,Nuevo León
+907,05/02/2023,Rubor,NARS,Ojos,428.03,6,2568.18,Transferencia,Sinaloa
+908,25/01/2023,Iluminador,Clinique,Ojos,1193.57,5,5967.85,Efectivo,Jalisco
+909,23/05/2023,Delineador,Revlon,Labios,1154.21,4,4616.84,Transferencia,Estado de México
+910,06/08/2024,Corrector,NYX,Labios,122.85,1,122.85,Efectivo,Ciudad de México
+911,09/09/2024,Base,Urban Decay,Ojos,1172.4,4,4689.6,Transferencia,Puebla
+912,20/06/2024,Labial,Clinique,Labios,553.66,1,553.66,Transferencia,Nuevo León
+913,10/03/2023,Delineador,MAC,Rostro,1082.07,3,3246.21,Transferencia,Puebla
+914,06/09/2024,Rímel,NARS,Ojos,85.5,5,427.5,Efectivo,Baja California
+915,07/11/2024,Rímel,NARS,Ojos,1353.41,1,1353.41,Efectivo,Nuevo León
+916,09/07/2023,Rímel,NARS,Labios,104.38,3,313.14,Transferencia,Puebla
+917,11/04/2024,Delineador,MAC,Rostro,784.6,2,1569.2,Efectivo,Guanajuato
+918,08/04/2024,Corrector,NARS,Ojos,375.55,6,2253.3,Efectivo,Chihuahua
+919,06/10/2023,Labial,Maybelline,Rostro,1474.46,5,7372.3,Transferencia,Jalisco
+920,10/06/2024,Corrector,Urban Decay,Ojos,450.05,2,900.1,Transferencia,Aguascalientes
+921,10/11/2024,Delineador,MAC,Ojos,613.88,4,2455.52,Transferencia,Baja California
+922,18/08/2023,Delineador,NYX,Ojos,1351.45,5,6757.25,Efectivo,Baja California
+923,17/07/2024,Base,NARS,Ojos,263.7,5,1318.5,Transferencia,Aguascalientes
+924,13/12/2023,Labial,Maybelline,Ojos,588.72,2,1177.44,Efectivo,Puebla
+925,01/12/2023,Rubor,Fenty Beauty,Rostro,336.46,2,672.92,Efectivo,Ciudad de México
+926,27/10/2023,Sombras,Fenty Beauty,Ojos,693.75,5,3468.75,Transferencia,Aguascalientes
+927,10/11/2024,Polvo Compacto,Clinique,Labios,449.46,1,449.46,Transferencia,Estado de México
+928,03/09/2024,Base,Clinique,Rostro,286.34,4,1145.36,Transferencia,Sonora
+929,27/06/2024,Sombras,MAC,Labios,1025.98,1,1025.98,Efectivo,Nuevo León
+930,13/01/2023,Rímel,L'Oréal,Rostro,399.93,6,2399.58,Transferencia,Jalisco
+931,16/01/2024,Delineador,Maybelline,Rostro,60.96,1,60.96,Transferencia,Estado de México
+932,20/05/2023,Delineador,Revlon,Ojos,1429.21,4,5716.84,Transferencia,Sinaloa
+933,13/02/2024,Labial,NARS,Labios,1014.41,2,2028.82,Efectivo,Estado de México
+934,14/07/2024,Polvo Compacto,Fenty Beauty,Labios,170.63,4,682.52,Efectivo,Jalisco
+935,01/06/2024,Polvo Compacto,MAC,Rostro,1021.1,6,6126.6,Transferencia,Estado de México
+936,08/04/2023,Polvo Compacto,Clinique,Ojos,980.63,1,980.63,Efectivo,Puebla
+937,05/07/2024,Rubor,NARS,Labios,574.13,5,2870.65,Transferencia,Sonora
+938,26/07/2024,Polvo Compacto,Urban Decay,Rostro,507.61,5,2538.05,Efectivo,Guanajuato
+939,16/04/2024,Delineador,Revlon,Ojos,1139.95,2,2279.9,Transferencia,Aguascalientes
+940,25/03/2024,Rímel,L'Oréal,Labios,673.54,6,4041.24,Efectivo,Sinaloa
+941,09/06/2023,Delineador,NYX,Labios,478.24,1,478.24,Transferencia,Nuevo León
+942,10/09/2023,Labial,NYX,Ojos,306.31,3,918.93,Efectivo,Guanajuato
+943,04/06/2023,Rubor,Urban Decay,Labios,1319.31,5,6596.55,Efectivo,Jalisco
+944,08/04/2023,Base,NARS,Ojos,182.78,3,548.34,Transferencia,Puebla
+945,07/07/2023,Delineador,NARS,Ojos,901.9,5,4509.5,Transferencia,Nuevo León
+946,01/03/2023,Sombras,Maybelline,Ojos,350.73,4,1402.92,Transferencia,Estado de México
+947,09/09/2024,Sombras,NYX,Rostro,123.15,6,738.9,Transferencia,Baja California
+948,24/06/2024,Sombras,Clinique,Ojos,1142.07,2,2284.14,Efectivo,Sonora
+949,11/06/2023,Corrector,Urban Decay,Rostro,1376.06,4,5504.24,Efectivo,Guanajuato
+950,11/03/2023,Rímel,Maybelline,Labios,1068.88,2,2137.76,Efectivo,Chihuahua
+951,17/07/2024,Corrector,Fenty Beauty,Ojos,59.37,4,237.48,Transferencia,Jalisco
+952,18/02/2023,Rímel,NARS,Labios,281.67,5,1408.35,Transferencia,Querétaro
+953,06/07/2024,Rubor,L'Oréal,Labios,1171.03,1,1171.03,Transferencia,Sonora
+954,12/01/2023,Rímel,Maybelline,Ojos,379.5,1,379.5,Transferencia,Nuevo León
+955,06/02/2024,Delineador,NYX,Labios,1227.97,2,2455.94,Efectivo,Chihuahua
+956,27/01/2024,Delineador,NARS,Ojos,1285.76,5,6428.8,Efectivo,Jalisco
+957,07/10/2024,Delineador,NYX,Ojos,1443.9,6,8663.4,Transferencia,Baja California
+958,24/09/2023,Iluminador,Revlon,Labios,811.74,6,4870.44,Transferencia,Nuevo León
+959,25/01/2024,Iluminador,MAC,Ojos,1200.7,6,7204.2,Efectivo,Guanajuato
+960,02/03/2024,Rubor,Urban Decay,Rostro,1241.06,3,3723.18,Transferencia,Sinaloa
+961,20/03/2024,Sombras,MAC,Rostro,686.12,5,3430.6,Efectivo,Ciudad de México
+962,15/03/2023,Rubor,L'Oréal,Rostro,382.19,3,1146.57,Transferencia,Jalisco
+963,10/03/2024,Delineador,MAC,Labios,781.52,5,3907.6,Efectivo,Guanajuato
+964,25/01/2023,Rímel,NYX,Labios,106.17,1,106.17,Efectivo,Aguascalientes
+965,22/05/2023,Rubor,NARS,Ojos,1351.3,5,6756.5,Efectivo,Sonora
+966,06/05/2023,Delineador,Fenty Beauty,Labios,1305.88,3,3917.64,Efectivo,Aguascalientes
+967,26/03/2023,Rímel,Fenty Beauty,Rostro,766.97,1,766.97,Transferencia,Nuevo León
+968,12/09/2023,Iluminador,Fenty Beauty,Labios,1309.6,3,3928.8,Efectivo,Nuevo León
+969,06/06/2024,Iluminador,L'Oréal,Labios,1088.53,6,6531.18,Transferencia,Puebla
+970,05/08/2024,Sombras,Maybelline,Rostro,917.12,1,917.12,Transferencia,Chihuahua
+971,27/12/2023,Base,Clinique,Labios,540.3,6,3241.8,Efectivo,Guanajuato
+972,19/02/2024,Delineador,NARS,Ojos,895.97,1,895.97,Transferencia,Sinaloa
+973,10/07/2023,Iluminador,Maybelline,Labios,476.78,2,953.56,Efectivo,Chihuahua
+974,14/11/2024,Corrector,MAC,Rostro,345.65,6,2073.9,Transferencia,Ciudad de México
+975,01/04/2023,Rímel,L'Oréal,Labios,368.12,1,368.12,Efectivo,Baja California
+976,23/08/2023,Iluminador,NYX,Rostro,667.85,6,4007.1,Efectivo,Aguascalientes
+977,21/11/2024,Corrector,Fenty Beauty,Labios,1033.76,4,4135.04,Transferencia,Puebla
+978,11/09/2023,Base,Urban Decay,Rostro,1070.82,3,3212.46,Efectivo,Baja California
+979,05/09/2024,Base,MAC,Labios,408.58,6,2451.48,Transferencia,Guanajuato
+980,22/07/2024,Corrector,L'Oréal,Labios,1470.5,3,4411.5,Transferencia,Ciudad de México
+981,03/05/2023,Base,Revlon,Ojos,518.55,5,2592.75,Efectivo,Nuevo León
+982,26/08/2023,Rubor,Revlon,Rostro,1406,1,1406,Efectivo,Sinaloa
+983,03/05/2024,Iluminador,Maybelline,Rostro,402.44,6,2414.64,Efectivo,Estado de México
+984,28/03/2024,Rímel,Clinique,Labios,1135.04,3,3405.12,Transferencia,Chihuahua
+985,22/02/2024,Rubor,L'Oréal,Ojos,1101.43,6,6608.58,Transferencia,Ciudad de México
+986,18/07/2023,Polvo Compacto,Revlon,Rostro,60.7,1,60.7,Transferencia,Chihuahua
+987,28/04/2024,Sombras,Maybelline,Rostro,58.63,4,234.52,Transferencia,Puebla
+988,21/01/2024,Iluminador,Urban Decay,Ojos,970.9,2,1941.8,Transferencia,Sonora
+989,03/04/2023,Labial,Maybelline,Labios,1487.41,6,8924.46,Efectivo,Jalisco
+990,17/01/2023,Base,MAC,Labios,1458.66,1,1458.66,Transferencia,Puebla
+991,14/07/2024,Sombras,Clinique,Labios,1346.63,1,1346.63,Transferencia,Sinaloa
+992,28/02/2023,Sombras,NARS,Rostro,1324.27,3,3972.81,Transferencia,Guanajuato
+993,10/08/2024,Sombras,MAC,Ojos,1272.78,6,7636.68,Transferencia,Sonora
+994,23/07/2023,Corrector,Maybelline,Labios,660.54,3,1981.62,Transferencia,Puebla
+995,06/11/2024,Delineador,Fenty Beauty,Rostro,905.8,1,905.8,Efectivo,Estado de México
+996,07/01/2023,Base,Revlon,Labios,973.22,2,1946.44,Transferencia,Aguascalientes
+997,18/06/2024,Rubor,Maybelline,Ojos,453.04,1,453.04,Transferencia,Chihuahua
+998,05/02/2023,Base,Maybelline,Labios,162.22,3,486.66,Efectivo,Nuevo León
+999,18/02/2023,Rímel,L'Oréal,Rostro,1435.86,6,8615.16,Transferencia,Aguascalientes
+1000,02/01/2023,Sombras,Urban Decay,Rostro,1380.92,3,4142.76,Transferencia,Nuevo León

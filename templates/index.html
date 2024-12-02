@@ -1,0 +1,49 @@
+{% include 'header.html' %} {% include 'navbar.html' %}
+
+<div id="carouselExampleIndicators" class="carousel slide">
+    <div class="carousel-indicators">
+      <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+      <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+      <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+    </div>
+    <div class="carousel-inner">
+      <div class="carousel-item active">
+        <img src="/static/carousel-1.jpg" class="d-block w-100" alt="...">
+      </div>
+      <div class="carousel-item">
+        <img src="/static/carousel-3.jpeg" class="d-block w-100" alt="...">
+      </div>
+      <div class="carousel-item">
+        <img src="/static/carousel-2.jpg" class="d-block w-100" alt="...">
+      </div>
+    </div>
+    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Next</span>
+    </button>
+</div>
+
+<div class="contenido">
+    <h1>Definición del Problema y Objetivos Empresariales</h1>
+    <p>Bellísima es una tienda de productos cosméticos que no tiene una visión clara de los productos que le generan más ventas o cuales no tienen las ventas esperadas, también le es difícil analizar cuales marcas son las que los clientes prefieren o la categoría (rostro, labios, etc.) que le está generando más ventas. Por otro lado, la tienda tiene diferentes sucursales en diferentes estados de México y podría no tener una visualización clara de las ventas dependiendo el estado. Sus objetivos son poder mejorar la toma de decisiones en base a información basada en datos y visualizaciones que le permitan generar estrategias de ventas, gestionar mejor el inventario para poder invertir más en las marcas y productos que le generan más ganancias y de esa manera beneficiarse como empresa al poder tener más ventas, pero también comprender al cliente para que encuentren lo que más compran y que deseen volver a comprar en un futuro.</p>
+        
+    <h1>Establecimiento de KPIs</h1>
+    <ul>
+        <li>Total de ingresos en general</li>
+        <li>Total de ingresos por producto</li>
+        <li>Total de ingresos por categoría </li>
+        <li>Precio promedio de los productos</li>
+        <li>Total de venta por método de pago</li>
+        <li>Total de ventas por estado</li>
+        <li>Ventas por año</li>
+        <li>Ventas por mes</li>
+    </ul>
+
+    <h3>Descarga el pdf</h3>
+    <iframe src="/static/proyecto.pdf" width="100%" height="600px"></iframe>
+</div>
+{% include 'footer.html' %}
