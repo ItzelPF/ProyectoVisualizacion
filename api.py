@@ -16,3 +16,15 @@ app.mount("/static",StaticFiles(directory="static/"),name="static")
 @app.get("/", response_class=HTMLResponse)
 async def read_root(request: Request):
     return templates.TemplateResponse("index.html", {"request": request})
+
+@app.get("/datawrapper", response_class=HTMLResponse)
+async def get_datawrapper(request: Request): 
+    return templates.TemplateResponse("DataWrapper.html", {"request": request})
+
+@app.get("/python", response_class=HTMLResponse)
+async def get_datawrapper(request: Request): 
+    return templates.TemplateResponse("Python.html", {"request": request})
+
+@app.get("/r", response_class=HTMLResponse)
+async def get_datawrapper(request: Request): 
+    return templates.TemplateResponse("R.html", {"request": request})

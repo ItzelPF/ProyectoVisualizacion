@@ -12,3 +12,4 @@ class Venta(BaseModel):
     total_venta: float
     metodo_pago: str
     estado: str
+    

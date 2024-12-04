@@ -1,0 +1,131 @@
+{% include 'header.html' %} {% include 'navbar.html' %}
+<style>
+    .contenido table {
+        font-size: 20px;
+        width: 80%;
+        margin: 10px auto;
+        border-collapse: collapse;
+        border: 2px solid #444;
+        text-align: center;
+    }
+
+    .contenido table th, 
+    .contenido table td {
+        border: 1px solid #444; 
+        padding: 5px; /* Espacio interno en las celdas */
+    }
+</style>
+
+<div class="contenido">
+    <h1>Gráfico de barras agrupadas de ventas totales por categoría y por año</h1>
+    <iframe title="Ventas totales por categoría y por año" aria-label="Grouped Bars" id="datawrapper-chart-F9ck0" src="https://datawrapper.dwcdn.net/F9ck0/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="286" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+    </script> 
+    <p><strong>Interpretación: </strong>Este gráfico nos ayuda a comparar las ventas totales por categoría
+        y por año, lo que nos ayuda a entender que productos de cierta categoría son los
+        que más se venden y la empresa se puede centrar en añadir a su inventario más de
+        esa categoría. Podría ser en productos de ojos ya que analizando los dos años de
+        venta dieron ganancias muy similares, mientras que los labios dieron más en 2023
+        pero no fueron tan vendidos en 2024, el rostro está dando más ganancias en 2024
+        pero en 2023 fueron pocas.
+        </p>     
+    <p><strong>Recomendaciones: </strong>Seguir vendiendo productos de ojos ya que en ambos años las
+        ventas fueron muy parecidas, pero además como aún no termina el año (2024) se
+        podrían centrar en aprovechar esa popularidad en las ventas de productos del rostro
+        ya que al parecer son los que las personas están prefiriendo más en este año.</p>
+    <p><strong>Enlace al gráfico: </strong><a href="https://datawrapper.dwcdn.net/F9ck0/2/" target="_blank">clic aquí</a></p>
+    <br><br>
+
+    <h1>Gráfico de pastel sobre total de ventas por marca</h1>
+    <iframe title="Total de ventas por marca" aria-label="Pie Chart" id="datawrapper-chart-Plqc9" src="https://datawrapper.dwcdn.net/Plqc9/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="509" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+    </script>
+    <p><strong>Interpretación: </strong>Con este gráfico podemos ver que no se nota una diferencia
+        significativa entre las ventas por marcas, sin embargo, L’Oreal es la que ha
+        generado mayores ganancias, mientras que que Nars ha tenido menos ventas.</p>
+        <table>
+            <thead>
+                <tr>
+                    <th>Categoría</th>
+                    <th>Mayor porcentaje</th>
+                    <th>Menor porcentaje</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Base</td>
+                    <td>L’Oreal y Revlon</td>
+                    <td>NARS</td>
+                </tr>
+                <tr>
+                    <td>Corrector</td>
+                    <td>Fenty Beauty</td>
+                    <td>NARS</td>
+                </tr>
+                <tr>
+                    <td>Delineador</td>
+                    <td>NARS</td>
+                    <td>Clinique</td>
+                </tr>
+                <tr>
+                    <td>Iluminador</td>
+                    <td>L’Oreal</td>
+                    <td>NYX</td>
+                </tr>
+                <tr>
+                    <td>Labial</td>
+                    <td>Maybelline y Fenty Beauty</td>
+                    <td>NARS</td>
+                </tr>
+                <tr>
+                    <td>Polvo compacto</td>
+                    <td>Urban Decay</td>
+                    <td>Clinique y MAC</td>
+                </tr>
+                <tr>
+                    <td>Rímel</td>
+                    <td>MAC</td>
+                    <td>Fenty Beauty</td>
+                </tr>
+                <tr>
+                    <td>Rubor</td>
+                    <td>MAC</td>
+                    <td>Maybelline</td>
+                </tr>
+                <tr>
+                    <td>Sombras</td>
+                    <td>NYX</td>
+                    <td>Maybelline y NARS</td>
+                </tr>
+            </tbody>
+        </table>
+    <p><strong>Recomendaciones: </strong>La empresa podría centrarse en tener más productos de
+        L’Oreal ya que al parecer es la que más prefieren sus clientes.</p>
+    <p><strong>Enlace al gráfico: </strong><a href=" https://datawrapper.dwcdn.net/Plqc9/3/" target="_blank">clic aquí</a></p>
+    <br><br>
+
+
+    <h1>Gráfico de múltiples donas sobre ventas totales por categoría y por marca</h1>
+    <iframe title="Total de ventas por marca y por categoría" aria-label="Multiple Donuts" id="datawrapper-chart-VE0D3" src="https://datawrapper.dwcdn.net/VE0D3/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="840" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+    </script>
+    <p><strong>Interpretación: </strong>Este gráfico muestra bastante información porque nos ayudará a
+        identificar dependiendo las categorías que existen que marca es la que prefieren
+        comprar los clientes. Está por porcentaje para que sea más fácil de leer ya que al
+        mostrar las sumas del total de ventas es un poco más complicado debido al tamaño
+        del gráfico.</p>
+    <p><strong>Recomendaciones: </strong>Observamos que Nars aparece en repetidas ocasiones como
+        la marca con menor porcentaje de ventas mientras que solo en delineador es la
+        que más vente, se debe analizar si realmente conviene seguir resurtiendo de las
+        otras categorías o centrase solo en los delineadores de esa marca. MAC, L’Oreal y
+        Fenty Beauty aparecen en dos categorías como las más vendidas, pero L’Oreal es
+        la única que no aparece en alguna categoría de la de menor porcentaje. </p>
+    <p><strong>Enlace al gráfico: </strong><a href="https://datawrapper.dwcdn.net/VE0D3/1/" target="_blank">clic aquí</a></p>
+
+    
+
+
+    <h1>Gráfico de múltiples donas sobre ventas totales por categoría y por marca</h1>
+    <p><strong>Interpretación: </strong></p>
+    <p><strong>Recomendaciones: </strong></p>
+    <p><strong>Enlace al gráfico: </strong></p>
+
+</div>
+{% include 'footer.html' %}

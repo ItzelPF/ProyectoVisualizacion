@@ -6,7 +6,6 @@ from fastapi.responses import RedirectResponse
 
 templates = Jinja2Templates(directory="templates/")
   
-# Peliculas Disney
 venta_list:Venta = []
 venta = APIRouter()
 

@@ -1,0 +1,68 @@
+{% include 'header.html' %} {% include 'navbar.html' %}
+<style>
+    .imagen{
+        text-align: center;
+        width: 100%;
+    }
+    .imagen img{
+        width: 700px;
+    }
+</style>
+
+<div class="contenido">
+    <h1>Gráfica de barras sobre la cantidad promedio por producto</h1>
+    <div class="imagen"><img src="/static/R1.png" alt="Gráfica de barras sobre la cantidad promedio por producto"></div>
+    <p><strong>Interpretación: </strong>: Está gráfica nos ayuda a identificar que en promedio en una venta
+        los clientes se llevan entre 3 y 4 del mismo producto, siendo el polvo compacto el
+        que tiene un mayor promedio y el rímel menor, el resultado no es lo que se
+        esperaría, pero quizá a la tienda van muchas maquilladoras que ocupan ese tipo de
+        producto con mayor uso.
+        </p>
+    <p><strong>Recomendaciones: </strong>Se podría añadir a la base de datos el tipo de cliente que
+        compra para así tener más visualizaciones y centrar las estrategias de venta hacia
+        ese tipo de clientes.
+        </p>
+    <br><br>
+
+    <h1>Gráfico de violín sobre la distribución de los precios unitarios por
+        categoría</h1>
+    <div class="imagen"><img src="/static/R2.png" alt="Gráfico de violín sobre la distribución de los precios unitarios por
+        categoría"></div>
+    <p><strong>Interpretación: </strong>Muestra la distribución de los precios unitarios dentro de cada
+        categoría. Se observa que las distribuciones son muy similares en las tres
+        categorías que existen porque las formas que tienen los violines son algo parecidas.
+        En los productos de labios se puede ver un poco más de densidad en la forma entre
+        los $1000-$1200. Para los ojos aporx. $200-$300 y para el rostro $1300-$1400.</p>
+    <p><strong>Recomendaciones: </strong>Continuar teniendo una variedad de productos y precios para
+        cada categoría, de esa forma la empresa se adaptará a los presupuestos de los
+        diferentes segmentos de clientes y acudirán mas personas a las tiendas.</p>
+    <br><br>
+
+    <h1>Gráfico de densidad sobre la cantidad vendida por
+        producto por año</h1>
+    <div class="imagen"><img src="/static/R3.png" alt="Gráfico de densidad sobre la cantidad vendida por
+        producto por año"></div>
+    <p><strong>Interpretación: </strong>Esta gráfica muestra la densidad de la cantidad vendida de varios
+        productos segmentado por año (2023 y 2024). Se observa que el comportamiento
+        no es el mismo en cada año, quizá se deba a la popularidad de algún producto en
+        específico. Productos como rímel y sombras muestran un comportamiento muy
+        similar en la cantidad vendida en los dos años, mientras que los rubores o
+        correctores no muestran un patrón en la cantidad vendida.</p>
+    <p><strong>Recomendaciones: </strong>Tener en cuenta los productos que se ven que son más
+        aceptados en el año 2024 para sacarles provecho como el polvo compacto, las
+        sombras y el rímel. También ajustar el inventario para que productos que tienen
+        densidades más altas en cierta cantidad como lo son los rubores en aprox 4-5.</p>
+
+    <h1>Heat map</h1>
+    <div class="imagen"><img src="/static/R4.png" alt="Heat map"></div>
+    <p><strong>Interpretación: </strong>El gráfico nos muestra la relación entre las diferentes variables numéricas que
+        tenemos, obviamente el ID no tiene una relación con las otras puesto que es único,
+        pero la cantidad vendida con total de venta está demasiado relacionada puesto que
+        las ventas dependen de la cantidad que se haya vendido. La correlación entre el
+        precio unitario y el total de ventas es un poco menos fuerte ya que el precio unitario
+        si influye, pero no tanto o de manera tan directa como lo hace la cantidad de venta,
+        los colores se ven muy similares, pero si se observan a detalle si hay un pequeño
+        cambio en el tono, aunque es muy leve.</p>
+</div>
+
+{% include 'footer.html' %}
