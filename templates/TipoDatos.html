@@ -1,0 +1,31 @@
+{% include 'header.html' %} {% include 'navbar.html' %}
+<style>
+    .imagen{
+        text-align: center;
+        width: 100%;
+    }
+    .imagen img{
+        width: 300px;
+    }
+</style>
+<div class="contenido">
+    <h1>Tipos de datos</h1>
+    <div class="imagen"><img src="/static/tipoDatos.png" alt="Tipos de datos"></div>
+    <ul>
+        <li><strong>ID: </strong>Identificador unico que permite diferenciar entre registros espepcíficos, es de tipo numérico</li>
+        <li><strong>Fecha: </strong>Cadena de caracteres en formato dd/mm/aaaa, registra cuándo se realizó la venta. Ayudará en los análisis para identificar tendencias de ventas ya sea en algunos días, meses o años específicos.</li>
+        <li><strong>Producto: </strong>Cadena de caracteres, tipo de producto que se está vendiendo como labial, rímel, rubor, etc.</li>
+        <li><strong>Marca: </strong>Cadena de caracteres, nombre de la marca del producto. Es útil para analizar cuáles son los productos más o menos vendidos. Permite evaluar el rendimiento de cada marca.</li>
+        <li><strong>Categoría: </strong>Cadena de caracteres, clasificación de los productos según su uso (para labios, rostro u ojos).</li>
+        <li><strong>Precio Unitario: </strong>Numérico, precio de cada unidad del producto vendido. Util para calcular ingresos y otros anális como prefenrencias de precios.</li>
+        <li><strong>Cantidad Vendida: </strong>Numérico, que cantidad de unidades de un producto se vendió. Ayuda a analizar el volumen de ventas.</li>
+        <li><strong>Total Venta: </strong>Numérico, importe total de la venta (cantidad vendida × precio unitario). Se utiliza para conocer los ingresos totales.</li>
+        <li><strong>Método Pago: </strong>Cadena de caracteres, indica la forma de pago. Funciona para analizar la preferencia de los clientes.</li>
+        <li><strong>Estado: </strong>Cadena de caracteres, conocer el estado de México donde se realizó la venta.</li>
+    </ul>
+
+    <h3>Conoce la base de datos<p><a href="/datos">clic aquí</a></p></h3>
+    
+</div>
+
+{% include 'footer.html' %}

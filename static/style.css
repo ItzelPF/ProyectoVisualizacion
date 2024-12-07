@@ -1,11 +1,16 @@
 
-/* Aseguramos que la imagen y el texto de la marca se alineen a la izquierda */
+body {
+  margin-top: 70px; /* Ajusta el valor según la altura de la navbar */
+}
 .navbar {
-    background-color: #F4C6D7;  /* Fondo rosado suave */
+    background-color: #F4C6D7;
     border: none;
     border-radius: 0;
     width: 100%;
-    padding: 10px 20px;  /* Ajusta el relleno para mayor espacio */
+    padding: 10px 20px;
+    position: fixed; /* Fija la barra en su lugar */
+    top: 0; /* Asegura que esté en la parte superior */
+    z-index: 1000; /* Coloca la barra encima de otros elementos */
 }
   
 .navbar-header {
@@ -13,51 +18,50 @@
     align-items: center;
 }
 .navbar-header img {
-    width: 50px;  /* Ajusta el tamaño de la imagen */
-    height: auto;  /* Mantiene la proporción de la imagen */
-    margin-right: 10px;  /* Da espacio entre la imagen y el texto */
+    width: 50px;
+    height: auto;
+    margin-right: 10px;
 }
   
 
 .navbar .navbar-brand {
-    color: #d6036d;  /* Rosa fuerte para la marca */
+    color: #d6036d;
     font-weight: bold;
     font-size: 23px;
 }
   
 .navbar .navbar-nav li a {
-    color: #d34f91;  /* Rosa más claro para los enlaces */
+    color: #d34f91;
     font-size: 18px;
     font-weight: bold;
 }
   
 .navbar .navbar-nav li a:hover {
-    color: #d6036d;  /* Rosa fuerte al pasar el mouse */
+    color: #d6036d;
     text-decoration: none;
     cursor: pointer;
 }
 
 
 /* Carrusel */
-/* Espacio debajo del header */
 .carousel {
-    padding-top: 20px; /* Ajusta según la altura del header */
+    padding-top: 20px;
   }
 
   /* Estilo para el carrusel */
   #carouselExampleIndicators {
     margin: 0 auto; /* Centra el carrusel */
-    max-width: 600px; /* Ancho máximo para imágenes */
+    max-width: 600px;
   }
 
   .carousel-inner img {
     height: 400px; /* Altura fija para el carrusel */
     object-fit: cover; /* Ajusta las imágenes sin distorsionarlas */
-    border-radius: 10px; /* Bordes redondeados para un diseño más atractivo */
+    border-radius: 10px;
   }
 
   .carousel-indicators button {
-    background-color: rgba(255, 255, 255, 0.7); /* Indicadores más visibles */
+    background-color: rgba(255, 255, 255, 0.7);
   }
 
   .carousel-control-prev-icon,
@@ -65,12 +69,6 @@
     filter: invert(1); /* Cambia el color de los íconos de control */
   }
 
-  .carousel-caption {
-    background: rgba(0, 0, 0, 0.5); /* Fondo semitransparente */
-    color: white;
-    padding: 10px 20px;
-    border-radius: 8px;
-  }
 
 /* Contenido */
 .contenido{
@@ -85,4 +83,27 @@
 
 .contenido p, li{
     font-size: 20px;
+}
+
+.contenido table {
+  font-size: 20px;
+  width: 80%;
+  margin: 10px auto;
+  border-collapse: collapse;
+  border: 2px solid #444;
+  text-align: center;
+}
+
+.contenido table th, 
+.contenido table td {
+  border: 1px solid #444; 
+  padding: 5px; /* Espacio interno en las celdas */
+}
+
+.imagen{
+  text-align: center;
+  width: 100%;
+}
+.imagen img{
+  width: 700px;
 }
